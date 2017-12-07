@@ -21,3 +21,6 @@ Read [How to make a LinkedIn page that wows recruiters, according to the guy who
 Update and/or create your [LinkedIn](https://www.linkedin.com/) (2 hours)
 
 # Starting Your Make School Portfolio
+
+
+![8 Tips for Professionalism](https://www.youtube.com/watch?v=0o3INMBL58w)

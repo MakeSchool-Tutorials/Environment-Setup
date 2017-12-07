@@ -9,23 +9,27 @@ At Make School we use a few digital tools to facilitate coding and collaborating
 
 If you are not extremely comfortable navigating the command line (also called your computer's "terminal"), please complete the [Code Academy Command Line Tutorial](https://www.codecademy.com/learn/learn-the-command-line) (Tutorial - 45 min)
 
-# Create A GitHub Account
-
-Create a [GitHub](https://github.com/) account (if you don't have one yet) and complete your profile (name, photo, etc).
-
-# Git
-
-Complete [Try Git](https://try.github.io/levels/1/challenges/1) (1 hour) to learn the basics of Git version control with a guided tutorial.
-
-# Git (more info)
-
-For more information, check out [Learn Version Control with Git](https://www.git-tower.com/learn/) videos and tutorials. You don't need to finish this, watching [videos 1-8](https://www.git-tower.com/learn/git/videos#episodes) and/or reading [part 1 of the tutorial](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction) is enough for now.
-
 # Atom or Sublime Text 3
 
 All code is written in software programs called **Code Editors**. At Make School, we require students to code in the [Atom](https://atom.io/) or [Sublime Text 3](https://www.sublimetext.com/3) code editors.
 
 Please download one or both of these editors.
+
+# Getting Started with Git & GitHub
+
+You probably have a GitHub account by now, but if you don't please, create a [GitHub](https://github.com/) account and complete your profile (name, photo, etc).
+
+Now watch this 40 min video by Brian Yu where he explains and demos getting started with git and GitHub.
+
+![An Introduction to Git and GitHub by Brian Yu](https://www.youtube.com/watch?v=MJUJ4wbFm_A)
+
+Now that you have your feet a little wet with git and GitHub, complete [Try Git](https://try.github.io/levels/1/challenges/1) (1 hour) to learn the basics of Git version control with a guided tutorial.
+
+## More Info
+
+* [Git-Tower.com - Learn Version Control with Git](https://www.git-tower.com/learn/)
+* [Git-Tower.com - Learn Version Control with Git Videos 1-8](https://www.git-tower.com/learn/git/videos#episodes)
+* [Git-Tower.com - Learn Version Control with Git - part 1 of the tutorial](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction)
 
 # Google Calendar
 
