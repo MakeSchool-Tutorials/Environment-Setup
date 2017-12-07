@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=5b91dFhZz0g (23 min)
 
 music player - https://www.youtube.com/watch?v=aiXvvL1wNUc (27 min)
 
-# First App - Tutorial
+# First App - Tip Calculator Tutorial
 
 Tip Calculator
 

@@ -18,7 +18,12 @@ slug: full-stack-web
 [Dash Tutorial](https://dash.generalassemb.ly/) (Tutorial - 2 hrs)
 
 # Intro to Dev Tools Tutorial
+
 [Dev Tools (tutorial)](https://www.codeschool.com/courses/discover-devtools)
+
+# First App - Giphy Search
+
+
 
 # JavaScript
 
