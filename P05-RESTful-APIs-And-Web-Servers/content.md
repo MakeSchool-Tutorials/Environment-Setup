@@ -5,17 +5,35 @@ slug: web-servers
 
 All Make School students learn how to build web servers, even folks who focus on mobile or who want to become data engineers. Why? Because almost every project that is connected to the internet in anyway must have a web server, if only a small one.
 
-# The Request Response Cycle
+# The Request-Response Cycle
 
-Watch this video: **HTTP and the Web Explained | Request-Response Cycle** Research and answer the following questions:
+One of the most fundamental structures or paradigms of the internet is the **Request-Response Cycle**. This is how clients such as mobile phones and browsers, send requests to servers and receive responses of data, and assets such as HTML, CSS, and JavaScript files and images.
+
+Watch this video to see one way to explain the Request-Response Cycle in terms of HTTP. **HTTP and the Web Explained | Request-Response Cycle** ~8 min
+
+![HTTP and the Web Explained | Request-Response Cycle](https://www.youtube.com/watch?v=YCcAE2SCQ6k)
+
+Research and answer the following questions:
 
   1. What is HTTP? What three criteria does it have?
   1. Draw your own diagram of the request-response cycle
   1. What are the standard HTTP status codes?
 
-![TTP and the Web Explained | Request-Response Cycle](https://www.youtube.com/watch?v=eesqK59rhGA) (Video - 8 min).
-
 # MVC Architecture
+
+The **Model-View-Controller Architecture** is arguably the most common architecture code can take inside both clients and servers. A simple way to think about MVC is to think of software working like a restaurant.
+
+* Guest => User
+* Menu => Views (HTML templates)
+* Waiter => Controller
+* Kitchen => Model
+* Refrigerator => Database
+
+A guest looks at the menu, tells the waiter what they want, the waiter tells the kitchen, the kitchen pulls raw ingredients from the refrigerator prepares them, the waiter brings them to the user and sets them down.
+
+Likewise, a user looks at the views, clicks on something or submits a form which sends a message handled by the controllers, the controllers send a message to the model, the model grabs data from the database, the controller sends that data to the views again.
+
+![MVC Restaurant](assets/mvc-req-res-1.jpeg)
 
 Watch What is Programming in MVC - Video - 24 min
 
@@ -36,8 +54,36 @@ Build a RESTful API in 5 Minutes with NodeJS-Updated.
 
 # Resourceful Routes
 
-Read, understand, and memorize the table of [RESTful & Resourceful Routes](http://guides.rubyonrails.org/v2.3/routing.html#restful-routing-the-rails-default) - (This is Ruby on Rails documentation, but the convention applies to the entire web.)
+Web servers are a complex mashup of code and concepts. Where should you start? How should you structure and name files, folders, variables, and methods? Web developers universally employ a concept called **Resources** to structure and name their files, variables, and methods. Similar to OOP, resources are like objects that have attributes and methods themselves. Here are the three resources a simple blog would have:
 
+* Users
+* Articles
+* Comments
+
+What can you do with resources? You can **CRUD** them:
+
+* Create
+* Read
+* Update
+* Destroy
+
+Think about it. In a blog, you can make a new article, you can read an article, you can edit and update an article, and you can delete an article. You can make a new comment, read comments, edit and update comments or delete comments. Resources can be Created, Read, Updated and Destroyed in various ways - this is called **CRUDing Resources**.
+
+CRUD can be spread out into seven common actions:
+
+* New - See a form to make a new resource
+* Create - Save the resource to the database
+* Show - See one resource
+* Index - See many resources
+* Edit - see a form to edit an existing resource
+* Update - save changes to an existing resource
+* Destroy - delete a single resource
+
+Each of these seven actions maps to a route and HTTP verb. It is important to follow this convention closely when building
+
+Read, understand, and memorize the table of Resourceful Routing
+
+![resourceful-routing](assets/resourceful-routing.png)
 
 # JSON
 
