@@ -19,6 +19,10 @@ HTML might seems simple, but using it well can be somewhat challenging. We've re
 
 [Semantic HTML](https://www.youtube.com/playlist?list=PLWjCJDeWfDdc0Sp_DinOWnodw3KnWCwc1) (Videos - 2 hrs)
 
+Don't forget to use Emmet to write HTML and CSS fast in Sublime or Atom.
+
+![Emmet](https://www.youtube.com/watch?v=BQurqKG6nGY)
+
 # Intro to CSS - Video
 
 CSS is a powerful and flexible styling syntax. Whether you think it is God's gift to humans or just cake decorating, it is important for all web developers to have a solid mastery of simple CSS concepts and tools.

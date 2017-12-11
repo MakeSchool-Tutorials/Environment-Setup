@@ -7,13 +7,13 @@ At Make School we use a few digital tools to facilitate coding and collaborating
 
 # The Command Line or Terminal
 
-If you are not extremely comfortable navigating the command line (also called your computer's "terminal"), please complete the [Code Academy Command Line Tutorial](https://www.codecademy.com/learn/learn-the-command-line) (Tutorial - 45 min)
+If you are not yet extremely comfortable navigating the command line (also called your computer's "terminal"), please complete the [Code Academy Command Line Tutorial](https://www.codecademy.com/learn/learn-the-command-line) (Tutorial - 45 min)
 
 # Atom or Sublime Text 3
 
 All code is written in software programs called **Code Editors**. At Make School, we require students to code in the [Atom](https://atom.io/) or [Sublime Text 3](https://www.sublimetext.com/3) code editors.
 
-Please download one or both of these editors.
+Please download one or both of these editors and familiarize yourself with their keyboard shortcuts.
 
 # Getting Started with Git & GitHub
 
