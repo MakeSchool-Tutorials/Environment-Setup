@@ -3,14 +3,9 @@ title: "Organization & Productivity"
 slug: productivity
 ---
 
-These topics will be covered in depth during orientation, but please take some time to assess your own organization and productivity.
+At Make School you will learn to be multiple times more productive than you have ever been. This increase in productivity is a superpower that will make you successful at Make School and in your future success as a software engineer.
 
-
-# How to be More Productive?
-
-At Make School you will learn to be multiple times more productive than you have ever been. This increase in productivity is a requirement to your success at Make School and your future success as a software engineer.
-
-Being more productive really has three parts:
+Being more productive has three parts:
 
 * Staying Organized
 * Removing Distractions
