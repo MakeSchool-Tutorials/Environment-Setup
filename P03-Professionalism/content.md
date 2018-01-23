@@ -5,13 +5,13 @@ slug: professionalism
 
 # Communication
 
-# Email
+## Email
 
-# Slack
+## Slack
 
-# Text
+## Text
 
-# Phone Call
+## Phone Call
 
 
 # Bootstrapping Your LinkedIn Profile
