@@ -4,7 +4,6 @@ slug: code-of-conduct
 ---
 
 
-
 # The Code of Conduct
 
 

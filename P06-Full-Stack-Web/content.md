@@ -43,6 +43,8 @@ Up until 2012, JavaScript was only the language of the browser but in 2012 Ryan 
 
 [Code Academy JavaScript Track](https://www.codecademy.com/learn/javascript) (Tutorial - 4 hrs)
 
+Extra: [Code Wars: JavaScript](https://www.codewars.com/)
+
 # jQuery
 
 jQuery is a bit old now, but it is still an incredibly popular client-side library for JavaScript. jQuery wraps some complex JavaScript code into simpler commands. Web developers use it to manipulate and change the DOM, to make animations, and to make HTTP requests to servers using AJAX. Again we will be relying on Code Academy's wonderful introductory tutorial.
