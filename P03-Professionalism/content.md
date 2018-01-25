@@ -44,4 +44,4 @@ Update and/or create your [LinkedIn](https://www.linkedin.com/) (2 hours)
 
 # Starting Your Make School Portfolio
 
-Much of what you accomplish at Make School will be captured in your Make School portfolio. Go start your [Make School portfolio](https://www.makeschool.com/portfolio/new) now with just your name, photo, and personal description. This page will eventually be shared with potential employers so please make it look pretty :D(20 min)
+Much of what you accomplish at Make School will be captured in your Make School portfolio. Go start your [Make School portfolio](https://www.makeschool.com/portfolio/new) now with just your name, photo, and personal description. This page will eventually be shared with potential employers so please make it look pretty :D (20 min)

@@ -39,7 +39,7 @@ Google Calendar is arguably the most important tool you will use at the Product 
   1. View another calendar
   1. Block off time to work
 
-[2017 Google Calendar Tutorial]https://www.youtube.com/watch?v=PZhvowwdSVI)
+[2017 Google Calendar Tutorial](https://www.youtube.com/watch?v=PZhvowwdSVI)
 
 ## Single Source of Truth
 
@@ -85,9 +85,9 @@ While you are in a time block you do not check email or slack or the news or Fac
 
 When you are not in a time block, you might be checking email, slack, and otherwise puttering around. This is OK, but you also have to keep your wits about you and track what you need to do in the future. So follow these steps:
 
-1. If a task is 2 minutes - just do it
-1. If a task is a fixed amount of time - schedule it on your calendar
-1. If a task will take an indeterminate amount of time - put it on your single source of truth.
+* If a task is 2 minutes - just do it
+* If a task is a fixed amount of time - schedule it on your calendar
+* If a task will take an indeterminate amount of time - put it on your single source of truth.
 
 # Other Resources
 
