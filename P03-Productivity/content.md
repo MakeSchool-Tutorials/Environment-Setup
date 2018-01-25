@@ -39,7 +39,7 @@ Google Calendar is arguably the most important tool you will use at the Product 
   1. View another calendar
   1. Block off time to work
 
-[2017 Google Calendar Tutorial](https://www.youtube.com/watch?v=PZhvowwdSVI)
+![2017 Google Calendar Tutorial](https://www.youtube.com/watch?v=PZhvowwdSVI)
 
 ## Single Source of Truth
 
