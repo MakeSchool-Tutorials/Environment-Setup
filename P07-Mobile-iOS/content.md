@@ -1,15 +1,17 @@
 ---
-title: "Mobile iOS Development"
+title: "Full Stack Mobile Development(iOS)"
 slug: mobile-ios
 ---
 
 # Xcode
 
-Install XCode on your computer from App Store (~4 hours)
+Install Xcode on your computer from the App Store (~4 hours)
+
+[Xcode Download Link](https://itunes.apple.com/us/app/xcode/id497799835?mt=12)
 
 # Introduction to the Swift Programming Language
 
-Complete [Online Academy - CS Fundamentals](https://www.makeschool.com/academy) (Tutorial - 3 hours)
+Complete [Online Academy - CS Fundamentals](https://www.makeschool.com/academy) (Tutorial - 10 hours)
 
 # First App - Videos
 
@@ -19,15 +21,19 @@ Just watch these two short videos (23 & 27 minutes) and take notes with what ste
 
 ![Music Player App](https://www.youtube.com/watch?v=aiXvvL1wNUc)
 
-# OOP in Swift
+# Object Oriented Programming in Swift
 
-Remember learning OOP in Python? Well you can also write Swift with an OOP style. To familiarize yourself with OOP in Swift by reading [Object Oriented Programming in Swift](https://www.raywenderlich.com/160728/object-oriented-programming-swift) (30min)
+Remember learning OOP in Python? Well you can also write Swift in an OOP style. Familiarize yourself with OOP in Swift by reading [Object Oriented Programming in Swift](https://www.raywenderlich.com/160728/object-oriented-programming-swift) (30min)
 
 # MVC Architecture in iOS
 
-![Swift 3: Twitter - User MVC Implementation (Ep 5)](https://www.youtube.com/watch?v=b9shcZzPbp4)
+Every wandered what the term MVC means? Watch this short video to understand this fundamental design pattern used in building iOS applications.
+
+![MVC in iOS](https://www.youtube.com/watch?v=Y09RvzZ1mY8)
 
 # Make Your First App - Tip Calculator Tutorial
+
+Learn about the Xcode & Swift by building a tip calculator
 
 [Tip Calculator](https://www.makeschool.com/academy/tutorial/Q29ob3J0LTEyNA==/build-a-tip-calculator/getting-started-with-xcode-eb71608b-37b7-4021-8419-c45033c027bb)
 
