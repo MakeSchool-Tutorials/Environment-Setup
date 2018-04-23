@@ -106,4 +106,4 @@ JSON is made up of **Key Value Pairs** and looks like this:
 
 To familiarize yourself more with JSON, please watch this great video on JSON called **JSON Crash Course** (30 min).
 
-![JSON Crash Course](https://www.youtube.com/watch?v=wI1CWzNtE-M)
+![ms-video-youtube](https://www.youtube.com/watch?v=wI1CWzNtE-M)
