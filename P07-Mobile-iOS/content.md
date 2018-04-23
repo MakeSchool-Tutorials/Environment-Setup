@@ -17,9 +17,13 @@ Complete [Online Academy - CS Fundamentals](https://www.makeschool.com/academy) 
 
 Just watch these two short videos (23 & 27 minutes) and take notes with what steps the developer takes to make these first apps.
 
-![Your First App](https://www.youtube.com/watch?v=5b91dFhZz0g)
+![ms-video-youtube](https://www.youtube.com/watch?v=5b91dFhZz0g)
 
-![Music Player App](https://www.youtube.com/watch?v=aiXvvL1wNUc)
+
+
+![ms-video-youtube](https://www.youtube.com/watch?v=aiXvvL1wNUc)
+
+
 
 # Object Oriented Programming in Swift
 
@@ -29,7 +33,7 @@ Remember learning OOP in Python? Well you can also write Swift in an OOP style. 
 
 Every wandered what the term MVC means? Watch this short video to understand this fundamental design pattern used in building iOS applications.
 
-![MVC in iOS](https://www.youtube.com/watch?v=Y09RvzZ1mY8)
+![ms-video-youtube](https://www.youtube.com/watch?v=Y09RvzZ1mY8)
 
 # Make Your First App - Tip Calculator Tutorial
 
