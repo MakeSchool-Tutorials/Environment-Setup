@@ -23,9 +23,11 @@ Now watch this 40 min video by Brian Yu where he explains and demos getting star
 
 ![ms-video-youtube](https://www.youtube.com/watch?v=MJUJ4wbFm_A)
 
+## Required Challenge
+
 Now that you have your feet a little wet with git and GitHub, complete [Try Git](https://try.github.io/levels/1/challenges/1) (1 hour) to learn the basics of Git version control with a guided tutorial.
 
-## More Info
+## Extra Resources
 
 * [Git-Tower.com - Learn Version Control with Git](https://www.git-tower.com/learn/)
 * [Git-Tower.com - Learn Version Control with Git Videos 1-8](https://www.git-tower.com/learn/git/videos#episodes)
