@@ -21,7 +21,7 @@ You probably have a GitHub account by now, but if you don't please, create a [Gi
 
 Now watch this 40 min video by Brian Yu where he explains and demos getting started with git and GitHub.
 
-![An Introduction to Git and GitHub by Brian Yu](https://www.youtube.com/watch?v=MJUJ4wbFm_A)
+![ms-video-youtube](https://www.youtube.com/watch?v=MJUJ4wbFm_A)
 
 Now that you have your feet a little wet with git and GitHub, complete [Try Git](https://try.github.io/levels/1/challenges/1) (1 hour) to learn the basics of Git version control with a guided tutorial.
 
