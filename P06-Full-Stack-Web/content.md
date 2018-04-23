@@ -27,7 +27,7 @@ Don't forget to use Emmet to write HTML and CSS fast in Sublime or Atom.
 
 CSS is a powerful and flexible styling syntax. Whether you think it is God's gift to humans or just cake decorating, it is important for all web developers to have a solid mastery of simple CSS concepts and tools.
 
-![Learn CSS in 12 Min](https://www.youtube.com/watch?v=0afZj1G0BIE) (Video - 12 min)
+![ms-video-youtube](https://www.youtube.com/watch?v=0afZj1G0BIE) (Video - 12 min)
 
 [CSS Cross-Country (Only Lesson 1)](https://www.codeschool.com/courses/css-cross-country) (Tutorial - 45 min)
 
