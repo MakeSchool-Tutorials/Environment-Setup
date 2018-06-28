@@ -19,18 +19,18 @@ Please download one or both of these editors and familiarize yourself with their
 
 You probably have a GitHub account by now, but if you don't please, create a [GitHub](https://github.com/) account and complete your profile (name, photo, etc). 
 
-# Why Use Git?
+## Why Use Git?
 In short, developers use git to collaborate on a project simultaneously and save snapshots of different versions of the project.
 
 Watch this 38 min video by Brian Yu where he explains the value of using git and demonstrates how to use it.
 
 ![ms-video-youtube](https://www.youtube.com/watch?v=MJUJ4wbFm_A)
 
-## Required Challenge
+# Required Challenge: Practice Git
 
-Now that you have some experience with git and GitHub, complete Codecademy's [Learn Git Tutorial](https://www.codecademy.com/learn/learn-git) (45 mins) to practice the basics of Git version control from the browser with a guided tutorial.
+Now that you have a general understanding of git, practice your skills by completing Codecademy's [Learn Git Tutorial](https://www.codecademy.com/learn/learn-git) (45 mins). This is a great way to learn and practice the basic of git from the browser with a guided tutorial.
 
-Or, if you're ambitious, you can jump straight into using your computer's terminal, try TutorialZine's text-based [Learn Git in 30 Minutes Tutorial](https://tutorialzine.com/2016/06/learn-git-in-30-minutes) (30 mins).
+Or, if you prefer to jump straight into using your computer's terminal, try TutorialZine's text-based [Learn Git in 30 Minutes Tutorial](https://tutorialzine.com/2016/06/learn-git-in-30-minutes) (30 mins).
 
 ## Extra Resources 
 
