@@ -26,7 +26,7 @@ Watch this 38 min video by Brian Yu where he explains the value of using git and
 
 ![ms-video-youtube](https://www.youtube.com/watch?v=MJUJ4wbFm_A)
 
-## Required Challenge: Practice Git
+# Required Challenge: Practice Git
 
 Now that you have a general understanding of git, practice your skills by completing Codecademy's [Learn Git Tutorial](https://www.codecademy.com/learn/learn-git) (45 mins). This is a great way to learn and practice the basic of git from the browser with a guided tutorial.
 
