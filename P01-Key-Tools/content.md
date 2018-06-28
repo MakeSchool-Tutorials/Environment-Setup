@@ -5,7 +5,7 @@ slug: key-tools
 
 At Make School we use a few digital tools to facilitate coding and collaborating with instructors and other students. Each of these tools you will use EVERYDAY when you are at the product college so it is important that they are loaded on your computer and you are familiar with them before you arrive.
 
-# The Command Line or Terminal
+## The Command Line or Terminal
 
 If you are not extremely comfortable with navigating the command line (also called your computer's "terminal"), please complete the [Code Academy Command Line Tutorial](https://www.codecademy.com/learn/learn-the-command-line) (Tutorial - 45 min)
 
