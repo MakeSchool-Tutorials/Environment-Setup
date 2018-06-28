@@ -7,7 +7,7 @@ At Make School we use a few digital tools to facilitate coding and collaborating
 
 # The Command Line or Terminal
 
-If you are not extremely comfortable with navigating the command line (also called your computer's "terminal"), please complete the [Code Academy Command Line Tutorial](https://www.codecademy.com/learn/learn-the-command-line) (Tutorial - 45 min)
+If you are not extremely comfortable with navigating the command line (also called your computer's "terminal"), please complete the [Code Academy Command Line Tutorial](https://www.codecademy.com/learn/learn-the-command-line) (45 - 60 min)
 
 # Atom or Sublime Text 3
 
