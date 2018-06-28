@@ -17,7 +17,7 @@ Please download one or both of these editors and familiarize yourself with their
 
 # Getting Started with Git & GitHub
 
-You probably have a GitHub account by now, but if you don't please, create a [GitHub](https://github.com/) account and complete your profile (name, photo, etc). 
+If you do not have a Github account yet, please create a [GitHub](https://github.com/) account and complete your profile (name, photo, etc). 
 
 ## Why Use Git?
 In short, developers use git to collaborate on a project simultaneously and save snapshots of different versions of the project.
