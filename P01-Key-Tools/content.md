@@ -5,7 +5,7 @@ slug: key-tools
 
 At Make School we use a few digital tools to facilitate coding and collaborating with instructors and other students. Each of these tools you will use EVERYDAY when you are at the product college so it is important that they are loaded on your computer and you are familiar with them before you arrive.
 
-## The Command Line or Terminal
+# The Command Line or Terminal
 
 If you are not extremely comfortable with navigating the command line (also called your computer's "terminal"), please complete the [Code Academy Command Line Tutorial](https://www.codecademy.com/learn/learn-the-command-line) (Tutorial - 45 min)
 
@@ -26,7 +26,7 @@ Watch this 38 min video by Brian Yu where he explains the value of using git and
 
 ![ms-video-youtube](https://www.youtube.com/watch?v=MJUJ4wbFm_A)
 
-# Required Challenge: Practice Git
+## Required Challenge: Practice Git
 
 Now that you have a general understanding of git, practice your skills by completing Codecademy's [Learn Git Tutorial](https://www.codecademy.com/learn/learn-git) (45 mins). This is a great way to learn and practice the basic of git from the browser with a guided tutorial.
 
