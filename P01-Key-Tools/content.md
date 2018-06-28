@@ -7,7 +7,7 @@ At Make School we use a few digital tools to facilitate coding and collaborating
 
 # The Command Line or Terminal
 
-If you are not yet extremely comfortable navigating the command line (also called your computer's "terminal"), please complete the [Code Academy Command Line Tutorial](https://www.codecademy.com/learn/learn-the-command-line) (Tutorial - 45 min)
+If you are not extremely comfortable with navigating the command line (also called your computer's "terminal"), please complete the [Code Academy Command Line Tutorial](https://www.codecademy.com/learn/learn-the-command-line) (Tutorial - 45 min)
 
 # Atom or Sublime Text 3
 
@@ -17,18 +17,22 @@ Please download one or both of these editors and familiarize yourself with their
 
 # Getting Started with Git & GitHub
 
-You probably have a GitHub account by now, but if you don't please, create a [GitHub](https://github.com/) account and complete your profile (name, photo, etc).
+You probably have a GitHub account by now, but if you don't please, create a [GitHub](https://github.com/) account and complete your profile (name, photo, etc). 
 
-Now watch this 40 min video by Brian Yu where he explains and demos getting started with git and GitHub.
+# Why Use Git?
+In short, developers use git to collaborate on a project simultaneously and save snapshots of different versions of the project.
+
+Watch this 38 min video by Brian Yu where he explains the value of using git and demonstrates how to use it.
 
 ![ms-video-youtube](https://www.youtube.com/watch?v=MJUJ4wbFm_A)
 
 ## Required Challenge
 
-Now that you have your feet a little wet with git and GitHub, complete [Try Git](https://try.github.io/levels/1/challenges/1) (1 hour) to learn the basics of Git version control with a guided tutorial.
+Now that you have some experience with git and GitHub, complete Codecademy's [Learn Git Tutorial](https://www.codecademy.com/learn/learn-git) (45 mins) to practice the basics of Git version control from the browser with a guided tutorial.
 
-## Extra Resources
+Or, if you're ambitious, you can jump straight into using your computer's terminal, try TutorialZine's text-based [Learn Git in 30 Minutes Tutorial](https://tutorialzine.com/2016/06/learn-git-in-30-minutes) (30 mins).
 
-* [Git-Tower.com - Learn Version Control with Git](https://www.git-tower.com/learn/)
-* [Git-Tower.com - Learn Version Control with Git Videos 1-8](https://www.git-tower.com/learn/git/videos#episodes)
-* [Git-Tower.com - Learn Version Control with Git - part 1 of the tutorial](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction)
+## Extra Resources 
+
+* [Git-Tower.com - Learn Version Control with Git - Ebook](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction)
+* [Git-Tower.com - Learn Version Control with Git - Videos 1-8](https://www.git-tower.com/learn/git/videos#episodes)
