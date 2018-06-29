@@ -21,23 +21,24 @@ Take time now to delete extra programs and files to free up space, and organize 
 
 Create one folder in the root of your computer called `dev`  or `code` and put all projects you ever do inside this folder. This will prevent your code being strewn all over your computer.
 
+Try doing this in the Terminal:
 ```bash
-$ cd ~
-$ mkdir dev
-$ cd dev
-$ mkdir new_coding_project
+$ cd ~ 
+$ mkdir dev // this creates a folder called "dev"
+$ cd dev // change directory to "dev"
+$ mkdir new_coding_project 
 ```
 
 ## Organized Calendar
 
 Google Calendar is arguably the most important tool you will use at the Product College and in your professional work. You will use it to see your classes, plan meetings with instructors and colleagues, make plans with mentors, find out about events, and much more.
 
-1. Watch the below Google Calendar Tutorial video (13 min) and be sure you can do the following competencies:
+Watch the below Google Calendar Tutorial video (13 min) and be sure you can do the following competencies:
   1. Create events
-  1. Invite guests to events
-  1. Allow guests to modify events
-  1. View another calendar
-  1. Block off time to work
+  2. Invite guests to events
+  3. Allow guests to modify events
+  4. View another calendar
+  5. Block off time to work
 
 ![ms-video-youtube](https://www.youtube.com/watch?v=TsgBNi8YEs0)
 
@@ -47,11 +48,11 @@ There are countless ways to track todos, but unless you want to go insane, you n
 
 They key is to create a **Single Source of Truth** list: one source to hold all of your tasks. Otherwise, you’ll have multiple lists, double count tasks, lose track of what you put where, or scratch one thing off a list only to find it somewhere else.
 
-To codify your types of work, productivity guru David Allen recommends categorizing your to-dos into for sections:
+To codify your types of work, productivity guru David Allen recommends categorizing your to-dos into four sections:
 1. “Projects” - current work + action items
-1. “Waiting On” - things you’re waiting for from other people
-1. “Someday/Maybe” - dreams, possible projects
-1. “Collection” - where you deposit new ideas, tasks
+2. “Waiting On” - things you’re waiting for from other people
+3. “Someday/Maybe” - dreams, possible projects
+4. “Collection” - where you deposit new ideas, tasks
 
 Pick and setup one source of truth now and move all your todos to it - (20 min)
 
