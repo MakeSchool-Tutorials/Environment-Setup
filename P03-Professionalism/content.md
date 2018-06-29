@@ -16,9 +16,9 @@ Being professional does not come naturally. Professionalism is a set of behavior
 
 These 2 videos are kind of ridiculous, but both have good rules of thumb for how to be professional. If you find a better video or videos on being professional please share! :D
 
-![8 Tips for Professionalism](https://www.youtube.com/watch?v=0o3INMBL58w)
+![ms-video-youtube](https://www.youtube.com/watch?v=0o3INMBL58w)
 
-![Professional Skills](https://www.youtube.com/watch?v=PWmhl6rzVpM)
+![ms-video-youtube](https://www.youtube.com/watch?v=PWmhl6rzVpM)
 
 # Communication
 
