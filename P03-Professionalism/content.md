@@ -38,9 +38,9 @@ Here are the guidelines:
 
 # Bootstrapping Your LinkedIn Profile
 
-* Read [How to make a LinkedIn page that wows recruiters, according to the guy who just overhauled its design](https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/how-to-best-use-your-linkedin-page-2017-3) (10 min)
+Read [How to make a LinkedIn page that wows recruiters, according to the guy who just overhauled its design](https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/how-to-best-use-your-linkedin-page-2017-3) (10 min)
 
-* Update and/or create your [LinkedIn](https://www.linkedin.com/) (2 hours)
+Update and/or create your [LinkedIn](https://www.linkedin.com/) (2 hours)
 
 # Starting Your Make School Portfolio
 
