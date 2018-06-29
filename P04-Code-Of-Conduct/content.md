@@ -3,8 +3,6 @@ title: "Code of Conduct & Academic and Professional Integrity"
 slug: code-of-conduct
 ---
 
-# The Code of Conduct & Harassment
-
 Make School is a place that is safe for everyone. In order to maintain that safe environment, we follow an official Code of Conduct and a Harassment Policy.
 
 1. Please read and consider carefully the Make School [Code of Conduct and Harassment Policy](https://github.com/MakeSchool/Code-of-Conduct-Diversity-and-Inclusion#diversity-and-inclusion-statement)
