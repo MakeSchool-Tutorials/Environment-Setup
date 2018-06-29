@@ -34,6 +34,7 @@ $ mkdir new_coding_project
 Google Calendar is arguably the most important tool you will use at the Product College and in your professional work. You will use it to see your classes, plan meetings with instructors and colleagues, make plans with mentors, find out about events, and much more.
 
 Watch the below Google Calendar Tutorial video (13 min) and be sure you can do the following competencies:
+ 
   1. Create events
   2. Invite guests to events
   3. Allow guests to modify events
@@ -49,6 +50,7 @@ There are countless ways to track todos, but unless you want to go insane, you n
 They key is to create a **Single Source of Truth** list: one source to hold all of your tasks. Otherwise, you’ll have multiple lists, double count tasks, lose track of what you put where, or scratch one thing off a list only to find it somewhere else.
 
 To codify your types of work, productivity guru David Allen recommends categorizing your to-dos into four sections:
+
 1. “Projects” - current work + action items
 2. “Waiting On” - things you’re waiting for from other people
 3. “Someday/Maybe” - dreams, possible projects
