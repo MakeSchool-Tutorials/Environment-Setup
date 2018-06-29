@@ -3,26 +3,18 @@ title: "Full Stack Mobile Development(iOS)"
 slug: mobile-ios
 ---
 
-# Xcode
-
-Install Xcode on your computer from the App Store (~4 hours)
+If you haven't already, please start by downloading and installing Xcode on your computer from the App Store (This is a large application and the download can take up to ~4 hours on slower connections)
 
 [Xcode Download Link](https://itunes.apple.com/us/app/xcode/id497799835?mt=12)
 
-# Introduction to the Swift Programming Language
-
-Complete [Online Academy - CS Fundamentals](https://www.makeschool.com/academy) (Tutorial - 10 hours)
 
 # First App - Videos
 
-Just watch these two short videos (23 & 27 minutes) and take notes with what steps the developer takes to make these first apps.
+Just watch these two short videos (23 & 27 minutes) and take notes with what steps the developer takes to make these first apps. You can start watching these while Xcode is downloading:
 
 ![ms-video-youtube](https://www.youtube.com/watch?v=5b91dFhZz0g)
 
-
-
 ![ms-video-youtube](https://www.youtube.com/watch?v=aiXvvL1wNUc)
-
 
 
 # Object Oriented Programming in Swift
@@ -37,10 +29,8 @@ Every wandered what the term MVC means? Watch this short video to understand thi
 
 # Make Your First App - Tip Calculator Tutorial
 
-Learn about the Xcode & Swift by building a tip calculator
+It's time to build your own iOS app from scratch! Learn about the Xcode & Swift by building a [Tip Calculator](https://www.makeschool.com/academy/tutorial/Q29ob3J0LTEyNA==/build-a-tip-calculator/getting-started-with-xcode-eb71608b-37b7-4021-8419-c45033c027bb).
 
-[Tip Calculator](https://www.makeschool.com/academy/tutorial/Q29ob3J0LTEyNA==/build-a-tip-calculator/getting-started-with-xcode-eb71608b-37b7-4021-8419-c45033c027bb)
-
-## References
+## Extra Material
 
 * [Swift and iOS Development- Intro to App Development iBook](https://itun.es/us/aVbRcb.l)
