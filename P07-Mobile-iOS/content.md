@@ -29,8 +29,8 @@ Every wandered what the term MVC means? Watch this short video to understand thi
 
 # Make Your First App - Tip Calculator Tutorial
 
-It's time to build your own iOS app from scratch! Learn about the Xcode & Swift by building a [Tip Calculator](https://www.makeschool.com/academy/tutorial/Q29ob3J0LTEyNA==/build-a-tip-calculator/getting-started-with-xcode-eb71608b-37b7-4021-8419-c45033c027bb).
+It's time to build your own iOS app from scratch! Learn about the Xcode & Swift by building a [Tip Calculator](https://www.makeschool.com/online-courses/tutorials/build-a-tip-calculator-in-swift-4/intro-tip-calculator).
 
-## Extra Material
+## References
 
 * [Swift and iOS Development- Intro to App Development iBook](https://itun.es/us/aVbRcb.l)
