@@ -60,17 +60,17 @@ Pick and setup one source of truth now and move all your todos to it - (20 min)
 
 # Removing Distractions
 
-All the software on our phones and the internet is build to make you addicted to it. News, social media, emails, slacks, texts, snaps, etc are all distractions that eat up the vital time you need to practice the craft of coding.
+All the software on our phones and the internet are built to make you addicted to it. News, social media, emails, slacks, texts, snaps, etc. are all distractions that eat up the vital time you need to practice the craft of coding.
 
 In order to be productive we have to remove all distractions and actively focus on coding projects. Here are some things that you should immediately begin adding to your routine.
 
 * Silencing your phone entirely
 * Turn off all notifications on your computer including slack and email.
-* Follow a **Maker Schedule** and plan to code the first 3-4 hours of each day without checking email or slack.
-* Schedule **Time Blocks** other times during the week where you only code.
-* Download [SelfControl](https://selfcontrolapp.com/) to literally block distracting sites.
+* Follow a "Maker Schedule" and plan to code the first 3-4 hours of each day without checking email or slack.
+* Schedule "Time Blocks" other times during the week where you only code.
 * Put away your phone while working. Studies show that [a mere presence of your smartphone](https://news.utexas.edu/2017/06/26/the-mere-presence-of-your-smartphone-reduces-brain-power) can decrease cognitive functioning.
 * Wear earphones when working.
+* Download [SelfControl](https://selfcontrolapp.com/) to literally block distracting sites.
 
 # Getting Things Done
 
