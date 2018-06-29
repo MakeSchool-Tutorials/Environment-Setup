@@ -45,7 +45,7 @@ Watch the below Google Calendar Tutorial video (13 min) and be sure you can do t
 
 ## Single Source of Truth
 
-There are countless ways to track todos, but unless you want to go insane, you need to pick just one. Each person likes something different. Some just use a note in the Apple Notes app. Other people use [Todoist](https://en.todoist.com/). Others just use a day planner or legal pad.
+There are countless ways to track todos, but unless you want to go insane, you need to pick just one. Each person likes something different. Some just use a note in the Apple Notes app. Other people use [Todoist](https://en.todoist.com/), [Trello](http://trello.com) or [Asana](http://asana.com). Others just use a day planner or legal pad.
 
 They key is to create a **Single Source of Truth** list: one source to hold all of your tasks. Otherwise, you’ll have multiple lists, double count tasks, lose track of what you put where, or scratch one thing off a list only to find it somewhere else.
 
