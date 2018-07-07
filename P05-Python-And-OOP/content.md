@@ -59,11 +59,3 @@ Once you've completed the lessons, can you answer the following questions:
 * What is a 'class'? What is an example of a class besides the examples you have already seen?
 * How are classes used in OOP?
 * What is 'inheritance'? What is an example of inheritance?
-
-# OOP Challenge
-
-TODO fix link
-
-This is a fun story-driven tutorial that teaches the major concepts of OOP (classes, objects, instance methods, inheritance, polymorphism, and composition). Please complete in Python.
-
-Complete Make School's [OOP Coding Challenge](http://hr.gs/ooptest) (1-2 hours)
