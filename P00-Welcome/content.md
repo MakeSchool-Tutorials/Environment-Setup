@@ -6,44 +6,19 @@ slug: welcome
 In this course, we will cover critical competencies and requirements for you to begin learning at Make School's Product College. We will link to internal and external tutorials, videos, and articles. Please complete these resources before clicking the "Mark as Complete" checkbox.
 
 > [info]
-We’ve cut things down to the pure essentials to save time. Think of this course as a list of materials you should understand with our suggestions on how to learn it. You do not need to complete materials that cover concepts you have already mastered. However, keep in mind that you will be assessed on these concepts during the first week at the Product College and if you are not ready, you will be required to complete these materials before beginning any other work. 
+We’ve cut things down to the pure essentials to save time. Think of this course as a list of materials you should understand with our suggestions on how to learn it. You do not need to complete materials that cover concepts you have already mastered. However, keep in mind that you will be assessed on these concepts during the first week at the Product College and if you are not ready, you will be required to complete these materials before beginning any other work.
 
-We'll cover:
+# Overview of Materials
+The prework will cover a variety of both technical (TECH) and professional (PROF) topics. We recommend covering the professional materials as soon as you have completed your initial computer setup as they will help you to start practicing good habits that will help you to boost your learning and efficiency.
 
-1. Computer Requirements & Setup
-2. Introduction to Key Tools
-3. Python & Object Oriented Programming
-4. Organization & Productivity
-5. Communication & Professionalism
-6. Code of Conduct & Academic and Professional Integrity
-7. RESTful API & Web Server Architecture (required for everyone)
-8. Full Stack Web (required for web concentrations)
-9. Mobile iOS (for iOS concentrations)
+1. Computer Setup & Key Tools(TECH)
+2. Organization & Productivity (PROF)
+3. Communication & Professionalism (PROF)
+4. Code of Conduct & Academic and Professional Integrity (PROF)
+5. Python & Object Oriented Programming (TECH)
+6. RESTful API & Web Server Architecture  (TECH)
 
-# Computer Requirements & Setup
+After completing all of the sections above, choose 1 of the following to prepare for a concentration in either Web or Mobile Development. If you aren't sure yet which one you are more interested in, you can check out the [course catalog](https://docs.google.com/document/d/1hz-Nv1_pc1z2yHbHhEeWb2mlwWu-g4nZiKWup8owUmc/preview) to compare the classes in each area.
 
-In order to participate in the Product College, you must have an Apple laptop (MacBook) that has the following:
-
-1. Solid State hard drive
-2. At least 8G of Memory (RAM)
-3. A battery that holds a charge
-4. A 100% working screen, keyboard, and trackpad
-
-If you do not have these here you have two options.
-
-1. Purchase a new, used, or refurbished laptop with these requirements.
-2. Upgrade your current under-powered MacBook with a solid state drive and/or more RAM. See tutorials on [How to add a solid state drive](https://www.cnet.com/how-to/upgrade-your-macbook-install-ssd-hard-drive/) and [How to add more RAM](https://support.apple.com/en-us/HT201165)
-
-It is required for you to have your computer meeting these requirements BEFORE arriving at Make School.
-
-Unfortunately, we cannot offer any sort of exceptions to this policy, students in the past who we have allowed to use workarounds such as a "hackintosh" or virtual machines have not been successful.
-
-# Operating System and Xcode
-
-Finally, you must download and install - or update - two (free) major pieces of software, your operating system and Xcode. 
-
-1. Updated your MacBook's operating system (OSX) to the [most recent stable version of the Apple operating system](https://www.apple.com/macos/how-to-upgrade/).
-2. Downloaded the most recent version of [Xcode](https://developer.apple.com/xcode/).
-
-> [info]
-These downloads may take multiple hours to download, so please start them now before continuing.
+7. Full Stack Web (TECH)
+8. Mobile iOS (TECH)
