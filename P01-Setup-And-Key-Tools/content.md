@@ -66,12 +66,13 @@ Atom:
 * [Mac Shortcuts](https://www.shortcutfoo.com/app/dojos/atom-mac/cheatsheet)
 
 # Git
+
 ## Why Use Git?
 In short, developers use git to collaborate on a project simultaneously and save snapshots of different versions of the project.
 
-Watch this 38 min video by Brian Yu where he explains the value of using git and demonstrates how to use it.
+Watch this 5 min video by Paul Programming where he explains the value of using git:
 
-![ms-video-youtube](https://www.youtube.com/watch?v=MJUJ4wbFm_A)
+![ms-video-youtube](https://www.youtube.com/watch?v=OqmSzXDrJBk)
 
 ## Create a GitHub Account
 If you do not have a Github account yet, please create a [GitHub](https://github.com/) account and complete your profile (name, photo, etc).
@@ -87,6 +88,7 @@ Complete at least the following sections:
 
 ## Extra Resources
 
+* [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
 * [Learn Git in 30 Minutes Tutorial](https://tutorialzine.com/2016/06/learn-git-in-30-minutes)
 * [Git-Tower.com - Learn Version Control with Git - Ebook](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction)
 * [Git-Tower.com - Learn Version Control with Git - Videos 1-8](https://www.git-tower.com/learn/git/videos#episodes)
