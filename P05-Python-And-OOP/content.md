@@ -48,6 +48,8 @@ Pay attention to the following words and how they are used:
 
 ## Other Resources
 
+The following tutorial provides more examples of working with OOP that can serve as a useful text-based reference of the concepts that you can refer back to:
+
 * [An Introduction to Classes and Inheritance](http://www.jesshamrick.com/2011/05/18/an-introduction-to-classes-and-inheritance-in-python/) by Jess Hamrick
 
 # OOP Practice

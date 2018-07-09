@@ -3,7 +3,7 @@ title: "Communication & Professionalism"
 slug: professionalism
 ---
 
-Being productive and organized is going to drive your success at Make School and as an engineer. Not communicating properly and being unprofessional are going to hinder your success. So we made this brief need-to-know guide for what to do and not do.
+Being productive and organized is going to drive your success at Make School and as an engineer. Not communicating properly and being unprofessional are going to hinder your success.
 
 # Professionalism
 
@@ -34,7 +34,7 @@ Here are the guidelines:
 * Use texts when you need to coordinate same-day with anyone, e.g. if you are going to be late to a meeting. Otherwise use Slack or email.
 
 ## Phone Call
-* Use a phone call in the cases of emergency or if a topic is too complex for text or email. 
+* Use a phone call in the cases of emergency or if a topic is too complex for text or email.
 
 # Bootstrapping Your LinkedIn Profile
 
