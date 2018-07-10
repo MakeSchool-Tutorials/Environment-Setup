@@ -3,6 +3,8 @@ title: "Full Stack Mobile Development(iOS)"
 slug: mobile-ios
 ---
 
+This section is mandatory prework if you are seeking to concentrate on iOS development, but optional otherwise.
+
 If you haven't already, please start by downloading and installing Xcode on your computer from the App Store (This is a large application and the download can take several hours on slower connections)
 
 * [Xcode](https://developer.apple.com/xcode/)
