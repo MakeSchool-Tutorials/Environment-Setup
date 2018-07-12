@@ -52,13 +52,9 @@ NOTE: Codecademy tutorials follow the "freemium" model where parts of the tutori
 All code is written in software programs called **Code Editors** or **IDEs** (integrated development environment). At Make School, we require students to code in either [Atom](https://atom.io/) or [Sublime Text 3](https://www.sublimetext.com/3).
 
 Please download one or both of these editors and familiarize yourself with their keyboard shortcuts.
-Sublime:
-* [Download](https://www.sublimetext.com/3)
-* [Mac Shortcuts](https://gist.github.com/paulovera/4486672)
 
-Atom:
-* [Mac Download](https://atom.io/download/mac)
-* [Mac Shortcuts](https://www.shortcutfoo.com/app/dojos/atom-mac/cheatsheet)
+* Sublime: [Download](https://www.sublimetext.com/3) | [Mac Shortcuts](https://gist.github.com/paulovera/4486672)
+* Atom: [Download](https://atom.io/download/mac) | [Mac Shortcuts](https://www.shortcutfoo.com/app/dojos/atom-mac/cheatsheet)
 
 # Git
 
@@ -77,6 +73,7 @@ If you do not have a Github account yet, please create a [GitHub](https://github
 Now that you have a general understanding of git, practice your skills at [Learn Git Branching](https://learngitbranching.js.org/). This is a great way to learn and practice the basics of git from the browser with a guided tutorial.
 
 Complete at least the following sections:
+
 * On the "Main" tab, do the Introduction Sequence, parts 1-4
 * On the "Remote" tab, do Push and Pull Git Remotes, parts 1-7
 * Complete extra sections to level up your git skills even more
