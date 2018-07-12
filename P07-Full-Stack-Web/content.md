@@ -11,17 +11,17 @@ In order to begin at Make School in the web development track, you must be famil
 
 HTML might seems simple, but using it well can be somewhat challenging. The following playlist of videos on youtube will explain the concept of **Semantic HTML**. This concept will be featured on the diagnostic assessment during orientation.
 
-Watch the following [playlist that explains HTML semantics](https://www.youtube.com/watch?v=fcZ_dx1rf5U&list=PLWjCJDeWfDdc0Sp_DinOWnodw3KnWCwc1)
+* Please watch the following playlist that explains [HTML semantics](https://www.youtube.com/watch?v=fcZ_dx1rf5U&list=PLWjCJDeWfDdc0Sp_DinOWnodw3KnWCwc1)
 
 # Intro to CSS
 
-CSS is a powerful and flexible styling syntax. Whether you think it is God's gift to humans or just cake decorating, it is important for all web developers to have a solid mastery of simple CSS concepts and tools.
+CSS is a powerful and flexible styling syntax. Whether you think it is God's gift to humans or just cake decorating, it is important for all web developers to have a solid mastery of simple CSS concepts and tools. Please watch the following video:
 
 ![ms-video-youtube](https://www.youtube.com/watch?v=0afZj1G0BIE)
 
 # Practice HTML & CSS
 
-The following two tutorials will help you practice the basics of HTML & CSS.
+Please complete the following two tutorials, which will help you practice the basics of HTML & CSS.
 
 * [Codecademy Learn HTML](https://www.codecademy.com/learn/learn-html)
 * [Codecademy Learn CSS](https://www.codecademy.com/learn/learn-css)
@@ -30,19 +30,19 @@ The following two tutorials will help you practice the basics of HTML & CSS.
 
 You can use Emmet to write HTML and CSS extra fast in Sublime or Atom.
 
-![Learn about Emmet](https://www.youtube.com/watch?v=BQurqKG6nGY)
+* Optionally, learn more about [Emmet](https://www.youtube.com/watch?v=BQurqKG6nGY)
 
 # Intro to Dev Tools
 
-Probably the least celebrated, but most used, web development tool is the browser itself. And not just the browser but the browser's **Dev Tools** pane. We use this pane of tools to debug, scale, and tweak the websites we build.
+Probably the least celebrated, but most used, web development tool is the browser itself, and more specifically, the browser's **Dev Tools** pane. We use this pane of tools to debug, scale, and tweak the websites we build.
 
-The following playlist covers the basics of working with the Chrome Developer Tools (dev tools in other browsers are often very similar):
+The following playlist covers the basics of working with the Chrome Developer Tools (dev tools in other browsers, like Safari, are often very similar):
 
-[Using Chrome Developer Tools](https://www.youtube.com/watch?v=nV9PLPFTnkE&list=PLfdtiltiRHWEQ6wtGVC57qrlRtQPyylya)
+* Please watch [Using Chrome Developer Tools](https://www.youtube.com/watch?v=nV9PLPFTnkE&list=PLfdtiltiRHWEQ6wtGVC57qrlRtQPyylya)
 
 # JavaScript
 
-Make School's web track focuses primarily on JavaScript on both the front and the backend.
+Make School's web track focuses primarily on JavaScript for both frontend development and backend development.
 
 * Please complete [Codecademy's Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 
@@ -51,7 +51,7 @@ As a reminder, Codecademy uses a freemium model. There are free sections and pai
 
 ## Extra
 
-* [Code Wars: JavaScript](https://www.codewars.com/?language=javascript
+* [Code Wars: JavaScript](https://www.codewars.com/?language=javascript)
 
 # jQuery
 
@@ -67,6 +67,6 @@ Let's use [Giphy's API](https://developers.giphy.com/docs/) to make our own gif 
 
 This tutorial project brings together and extends the introductary work covered above.
 
-* [Make School Tutorial - Giphy Search](https://www.makeschool.com/online-courses/tutorials/giphy-search-app-with-node-js/your-node-environment)
+* Please complete [Make School's "Giphy Search" Tutorial](https://www.makeschool.com/online-courses/tutorials/giphy-search-app-with-node-js/your-node-environment)
 
 We'll be looking at your completed version of this project on the first day of class.
