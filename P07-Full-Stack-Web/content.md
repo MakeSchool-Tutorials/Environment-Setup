@@ -65,8 +65,9 @@ jQuery is still an incredibly popular client-side library for JavaScript. jQuery
 
 Let's use [Giphy's API](https://developers.giphy.com/docs/) to make our own gif search engine.
 
-This tutorial project brings together and extends the introductary work covered above.
+This tutorial project brings together and extends the introductory work covered above.
 
 * Please complete [Make School's "Giphy Search" Tutorial](https://www.makeschool.com/online-courses/tutorials/giphy-search-app-with-node-js/your-node-environment)
 
+>[info]
 We'll be looking at your completed version of this project on the first day of class.
