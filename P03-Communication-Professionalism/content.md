@@ -28,7 +28,7 @@ Here are our recommended guidelines for effective communication across different
 
 * **Email** - Respond to all emails within 36 hours with some response, even if it is just "I'll get back to you on Friday."
 * **Slack** - Respond to all Slack messages same day, even if it is just "I'll get back to you on Friday." Here's a [short video](https://www.youtube.com/watch?v=yGjsYf48Om4) about Slack if you are not familiar with the tool yet.
-* **Text Message:** - Use texts when you need to coordinate same-day with anyone, e.g. if you are going to be late to a meeting. Otherwise use Slack or email.
+* **Text Message** - Use texts when you need to coordinate same-day with anyone, e.g. if you are going to be late to a meeting. Otherwise use Slack or email.
 * **Phone Cal:** - Use a phone call in the cases of emergency or if a topic is too complex for text or email. If time allows, it's courteous to send a quick text or email first to ask if the other person is free for a call.
 
 # Bootstrapping Your LinkedIn Profile
