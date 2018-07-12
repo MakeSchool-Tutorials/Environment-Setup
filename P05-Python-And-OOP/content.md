@@ -32,7 +32,9 @@ Reminder: Codecademy tutorials follow the "freemium" model where parts of the tu
 
 Object-Oriented Programming is a common and useful **coding paradigm**, one way to organize code and code's functionality.
 
-Watch these 6 videos for [Python OOP Tutorials](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc) by Corey Schafer. (Approx 1 hour)
+Watch this 6 mini-video series about Object Oriented programming by Corey Schafer. (~1 hour) 
+
+![ms-video-youtube](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
 
 Pay attention to the following words and how they are used:
 
