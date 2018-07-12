@@ -18,7 +18,7 @@ The prework will cover a variety of both technical (TECH) and professional (PROF
 5. Python & Object Oriented Programming (TECH)
 6. RESTful API & Web Server Architecture  (TECH)
 
-After completing all of the sections above, choose 1 of the following to prepare for a concentration in either Web or Mobile Development. If you aren't sure yet which one you are more interested in, you can check out the [course catalog](https://docs.google.com/document/d/1hz-Nv1_pc1z2yHbHhEeWb2mlwWu-g4nZiKWup8owUmc/preview) to compare the classes in each area.
+After completing all of the sections above, choose 1 of the following to prepare for a concentration in either Web or Mobile Development. If you aren't sure yet which one you are more interested in, you can check out the [course catalog](https://make.sc/course-catalog) to compare the classes in each area.
 
 7. Full Stack Web (TECH)
 8. Mobile iOS (TECH)
