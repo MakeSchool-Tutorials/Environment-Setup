@@ -25,6 +25,9 @@ On Codecademy's [Learn Python](https://www.codecademy.com/learn/learn-python) tu
 7. Lists and Functions
 8. Loops
 
+> [info]
+Reminder: Codecademy tutorials follow the "freemium" model where parts of the tutorial content are only available to paid users. You only need to complete the free sections, as outlined above.
+
 # Intro to Object-Oriented Programming (OOP)
 
 Object-Oriented Programming is a common and useful **coding paradigm**, one way to organize code and code's functionality.
