@@ -5,7 +5,7 @@ slug: productivity
 
 At Make School you will learn to be multiple times more productive than you have ever been. This increase in productivity is a superpower that will make you successful at Make School and in your future success as a software engineer.
 
-Being more productive has three parts:
+We've broken down productivity into three parts:
 
 * Staying Organized
 * Removing Distractions
@@ -15,7 +15,7 @@ Being more productive has three parts:
 
 It won't matter how well you have things organized if they are the wrong things!
 
-Check out this LifeHacker article, [Productivity 101: A Primer to the Getting Things Done (GTD) Philosophy](https://lifehacker.com/productivity-101-a-primer-to-the-getting-things-done-1551880955) for a quick overview of the popular GTD method. (If you don't already have access to a copy of the GTD book there are copies available to read at Make School.)
+Check out this LifeHacker article, [Productivity 101: A Primer to the Getting Things Done (GTD) Philosophy](https://lifehacker.com/productivity-101-a-primer-to-the-getting-things-done-1551880955) for a quick overview of the popular GTD method. (If you'd like to read the full book but can not access it, there are copies available to read at Make School.)
 
 As the GTD method acknowledges, there are countless ways to track todos, but unless you want to go insane, you need to **pick just one**.
 
@@ -25,10 +25,10 @@ They key is to create a **Single Source of Truth** list: one source to hold all 
 
 To codify your types of work, productivity guru David Allen recommends categorizing your to-dos into four sections:
 
-1. “Projects” - current work + action items
-2. “Waiting On” - things you’re waiting for from other people
-3. “Someday/Maybe” - dreams, possible projects
-4. “Collection” - where you deposit new ideas, tasks
+1. *Projects* - current work + action items
+2. *Waiting On* - things you’re waiting on from other people
+3. *Someday/Maybe* - dreams, possible projects
+4. *Collection* - where you deposit new ideas and tasks
 
 Pick and setup one source of truth now and move all your todos to it.
 
@@ -41,7 +41,8 @@ Take time now to delete extra programs and files to free up space, and organize 
 Create one folder in the root of your computer called `dev`  or `code` and put all projects you ever do inside this folder. This will prevent your code being strewn all over your computer.
 
 Try doing this in the Terminal:
-```bash
+```
+bash
 $ cd ~
 
 $ mkdir dev // create a folder called "dev"
