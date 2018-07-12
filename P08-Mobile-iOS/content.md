@@ -23,7 +23,7 @@ Now that you've practicing working with OOP in Python, you can also write Swift 
 
 # MVC Architecture in iOS
 
-The MVC pattern isn't just for web development, it's also a fundamental design pattern used in building iOS applications.
+The MVC pattern isn't just for web development, it's also a fundamental design pattern used in building iOS applications. Please watch the following video:
 
 ![ms-video-youtube](https://www.youtube.com/watch?v=Y09RvzZ1mY8)
 
