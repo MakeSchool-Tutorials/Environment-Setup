@@ -19,7 +19,7 @@ For a quick overview of working with Xcode and building a simple iOS app, watch 
 
 Now that you've practicing working with OOP in Python, you can also write Swift in an OOP style. You can skim through the following tutorial for a quick overview and then keep it open as a reference later as you work on the Tip Calculator Tutorial.
 
-* Please skim/read Ray Wenderlich's tutorial on [Object Oriented Programming in Swift](https://www.raywenderlich.com/160728/object-oriented-programming-swift). Don't worry if you don't understand everything the first time. You'll get plenty of practice in the tutorials below and during your time at Make School.
+* Please read Ray Wenderlich's tutorial on [Object Oriented Programming in Swift](https://www.raywenderlich.com/160728/object-oriented-programming-swift)
 
 # MVC Architecture in iOS
 
