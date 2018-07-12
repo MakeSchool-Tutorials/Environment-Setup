@@ -41,16 +41,17 @@ At Make School we use a few digital tools to facilitate coding and collaborating
 If you are not already comfortable with navigating the command line (also called your computer's "terminal"), please complete the [Code Academy Command Line Tutorial](https://www.codecademy.com/learn/learn-the-command-line) (45 - 60 min)
 
 You should become familiar with all of the following:
-* ls, pwd, cd
-* mkdir, touch
-* mv, rm, cp, wildcards
-* stdin, stdout, stderr
-* >, <, >>, |
-* sort, uniq
-* grep, sed
-* env, alias, bash profile
+```ls, pwd, cd```
+```mkdir, touch```
+```mv, rm, cp, wildcards```
+```stdin, stdout, stderr```
+```>, <, >>, |```
+```sort, uniq```
+```grep, sed```
+```env, alias, bash profile```
 
-_NOTE: Codecademy tutorials follow the "freemium" model where parts of the tutorial content are only available to paid users. You only need to complete the free sections._
+> [info]
+NOTE: Codecademy tutorials follow the "freemium" model where parts of the tutorial content are only available to paid users. You only need to complete the free sections.
 
 # Atom or Sublime Text 3
 
