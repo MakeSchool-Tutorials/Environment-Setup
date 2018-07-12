@@ -42,14 +42,7 @@ If you are not already comfortable with navigating the command line (also called
 
 You should become familiar with all of the following commands before proceeding to the next section:
 
-```ls, pwd, cd```
-```mkdir, touch```
-```mv, rm, cp, wildcards```
-```stdin, stdout, stderr```
-```>, <, >>, |```
-```sort, uniq```
-```grep, sed```
-`env, alias, bash profile`
+`ls`, `pwd`, `cd`, `mkdir`, `touch`, `mv`, `rm`, `cp`, `wildcards`, `stdin`, `stdout`, `stderr`, `>`, `<`, `>>`, `|`, `sort`, `uniq`, `grep`, `sed`, `env`, `alias`, and `bash profile`
 
 > [info]
 NOTE: Codecademy tutorials follow the "freemium" model where parts of the tutorial content are only available to paid users. You only need to complete the free sections.
