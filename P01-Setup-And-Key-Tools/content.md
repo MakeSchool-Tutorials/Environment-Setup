@@ -3,7 +3,7 @@ title: "Computer Setup & Key Tools"
 slug: key-tools
 ---
 
-# Computer Requirements
+## Computer Requirements
 
 In order to participate in the Product College, you must have an Apple laptop (MacBook) that has the following:
 
