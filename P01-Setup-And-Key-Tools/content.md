@@ -40,14 +40,22 @@ At Make School we use a few digital tools to facilitate coding and collaborating
 
 If you are not already comfortable with navigating the command line (also called your computer's "terminal"), please complete the [Code Academy Command Line Tutorial](https://www.codecademy.com/learn/learn-the-command-line) (45 - 60 min)
 
-You should become familiar with all of the following:
+You should become familiar with all of the following commands before proceeding to the next section:
+
 ```ls, pwd, cd```
+
 ```mkdir, touch```
+
 ```mv, rm, cp, wildcards```
+
 ```stdin, stdout, stderr```
+
 ```>, <, >>, |```
+
 ```sort, uniq```
+
 ```grep, sed```
+
 ```env, alias, bash profile```
 
 > [info]
