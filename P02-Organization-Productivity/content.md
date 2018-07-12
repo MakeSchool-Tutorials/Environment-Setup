@@ -40,10 +40,10 @@ Take time now to delete extra programs and files to free up space, and organize 
 
 Create one folder in the root of your computer called `dev`  or `code` and put all projects you ever do inside this folder. This will prevent your code being strewn all over your computer.
 
-Try doing this in the Terminal:
+Try doing this in the Terminal, for example:
 
 ```
-bash
+$ bash
 $ cd ~
 
 $ mkdir dev // create a folder called "dev"
@@ -100,7 +100,7 @@ While you are in a time block you do not check email or Slack or the news or Fac
 When you are not in a time block, you might be checking email, slack, and otherwise puttering around. This is OK, but you also have to keep your wits about you and track what you need to do in the future. So follow these steps:
 
 * If a task is 2 minutes - just do it
-* If a task is a fixed amount of time - schedule it on your calendar
+* If a task will take a fixed amount of time - schedule it on your calendar
 * If a task will take an indeterminate amount of time - put it on your single source of truth.
 
 # Optional Resources
