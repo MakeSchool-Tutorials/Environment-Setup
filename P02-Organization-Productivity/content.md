@@ -41,6 +41,7 @@ Take time now to delete extra programs and files to free up space, and organize 
 Create one folder in the root of your computer called `dev`  or `code` and put all projects you ever do inside this folder. This will prevent your code being strewn all over your computer.
 
 Try doing this in the Terminal:
+
 ```
 bash
 $ cd ~
