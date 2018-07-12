@@ -20,7 +20,7 @@ Research and answer the following questions:
 
 # MVC Architecture
 
-The **Model-View-Controller Architecture** is arguably the most common architecture code can take inside both clients and servers. A simple way to think about MVC is to think of software working like a restaurant.
+The **Model-View-Controller Architecture** is arguably the most common architecture style for both client and server side. A simple way to think about MVC is to think of software working like a restaurant.
 
 * Guest => User
 * Menu => Views (HTML templates)
