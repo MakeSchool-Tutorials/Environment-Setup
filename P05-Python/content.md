@@ -37,7 +37,7 @@ This allows us to get feedback on how well the students are grasping the learnin
  **Congrats on completing your prework!**
 
  ![congrats](https://media.giphy.com/media/rY93u9tQbybks/giphy.gif)
- <br/> <sub>Source: [giphy](https://giphy.com/gifs/great-dicaprio-leonardo-rY93u9tQbybks)</sub>
+ <sub>Source: [giphy](https://giphy.com/gifs/great-dicaprio-leonardo-rY93u9tQbybks)</sub><br/><br/>
 
  If you're looking for some optional extra challenges, check out our resources below. Either way, we'll see you soon! Excited for you to be joining us 😁
 
