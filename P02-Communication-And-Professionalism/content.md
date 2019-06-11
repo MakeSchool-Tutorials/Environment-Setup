@@ -26,16 +26,19 @@ Being professional does not come naturally. Let's repeat that: _being profession
 
 # Communication
 
-As stated above, the purpose of communication in a professional setting is to share information effectively and give those around peace of mind that they are as up to date on things as possible. It is always better to be a little redundant than to not give enough updates.
+As stated above, the purpose of communication in a professional setting is to share information effectively and give those around peace of mind that they are as up to date on things as possible. In the real world, people get _fired_ for poor communication, so it is important to instill these practices now before you start working in industry where the stakes are higher.
 
 > [action]
 >
 > Please review our recommended guidelines for effective communication across different mediums below:
 >
-> - **Email** - Respond to all emails within 36 hours with some response, even if it is just "I'll get back to you on Friday."
-> - **Slack** - Respond to all Slack messages same day, even if it is just "I'll get back to you on Friday." Here's a [short video](https://www.youtube.com/watch?v=yGjsYf48Om4) about Slack if you are not familiar with the tool yet.
-> - **Text Message** - Use texts when you need to coordinate same-day with anyone, e.g. if you are going to be late to a meeting. Otherwise use Slack or email.
+> - **Email** - Use for archivable, important info that has deadlines, requires heavy action, or team coordination. Check email at least _once per day_. Respond to all emails within 24 hours with some response, even if it is just "I'll get back to you on Friday."
+> - **Slack** - Use for impermanent, lightweight questions and coordination, or to share links or feedback. Check Slack at least _twice per day_. Respond to all Slack messages same day, even if it is just "I'll get back to you on Friday." Here's a [short video](https://www.youtube.com/watch?v=yGjsYf48Om4) about Slack if you are not familiar with the tool yet.
+> - **In Person** - Use if the issue is too complicated for Slack or email. Be sure to check the other person's availability via their calendar first!
+> - **Text Message** - Use texts when you need to coordinate urgent, same-day information with someone, e.g. if you are going to be late to a meeting. Otherwise use Slack or email.
 > - **Phone Call** - Use a phone call in the cases of emergency or if a topic is too complex for text or email. If time allows, it's courteous to send a quick text or email first to ask if the other person is free for a call.
+
+Lastly, remember that **it's ok to ask for help!** We are here to support you, please reach out!
 
 # Bootstrapping Your LinkedIn Profile
 
