@@ -6,7 +6,7 @@ slug: welcome
 Welcome to the Make School family! We're absolutely thrilled to bring you on board!
 
 ![hello](https://media1.tenor.com/images/7579a792cffb3e35c5ae81669a8a3bb4/tenor.gif?itemid=12198352)
-<br/><sub> Source: [Tenor](https://tenor.com/view/yay-bobs-burger-excited-happiness-hello-gif-12198352) </sub>
+<sub> Source: [Tenor](https://tenor.com/view/yay-bobs-burger-excited-happiness-hello-gif-12198352) </sub><br/>
 
 While we won't see you for a little bit longer, there are some tasks we've prepared for you in this prework tutorial that will set you up for success at Make School. We'll cover everything from how to set up your laptop so that you're ready to start coding, to critical competencies and requirements for you to excel in learning at Make School.
 
