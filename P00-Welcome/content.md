@@ -35,7 +35,7 @@ During your time at Make School, you'll see **learning outcomes** throughout you
 By the end of this tutorial, you should be able to...
 
 1. Set up your development environment to be coding ready
-1. Describe and adhere to Make School's  communication and professionalism standards
+1. Describe and adhere to Make School's communication and professionalism standards
 1. Remember where to find Make School's academic policies
 1. Practice general coding best practices
 1. Compare and contrast Python and JavaScript syntax

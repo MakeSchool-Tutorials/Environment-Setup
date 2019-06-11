@@ -28,7 +28,7 @@ Reminder: Codecademy tutorials follow the "freemium" model where parts of the tu
 
 **We promise this won't take longer than 2 minutes!**
 
-Please take a moment to rate your understanding of the learning outcomes from this tutorial, and how we can improve it via our [tutorial feedback form](LINK_TO_YOUR_FORM)
+Please take a moment to rate your understanding of the learning outcomes from this tutorial, and how we can improve it via our [tutorial feedback form](https://forms.gle/qpzzgfJA3zBByNsz9)
 
 This allows us to get feedback on how well the students are grasping the learning outcomes, and tells us where we can improve the tutorial experience.
 
