@@ -8,9 +8,7 @@ Welcome to the Make School family! We're absolutely thrilled to bring you on boa
 ![hello](https://media1.tenor.com/images/7579a792cffb3e35c5ae81669a8a3bb4/tenor.gif?itemid=12198352)
 <sub> Source: [Tenor](https://tenor.com/view/yay-bobs-burger-excited-happiness-hello-gif-12198352) </sub><br/><br/>
 
-While we won't see you for a little bit longer, there are some tasks we've prepared for you in this prework tutorial that will set you up for success at Make School. We'll cover everything from how to set up your laptop so that you're ready to start coding, to critical competencies and requirements for you to excel in learning at Make School.
-
-We’ve cut things down to the pure essentials to save time. Think of this course as a list of materials you should understand with our suggestions on how to learn it
+We'll see you in a few short weeks, but until then, we've prepared some tasks for you in this prework tutorial that will set you up for success at Make School. We'll cover everything from how to set up your laptop so that you're ready to start coding, to critical competencies and requirements for you to excel in learning at Make School. Think of this tutorial as a list of materials you should understand with our suggestions on how to learn it.
 
 Throughout this tutorial we will link to internal and external tutorials, videos, and articles. Please complete these resources and read all accompanying text in the tutorial section before clicking the "Mark as Complete" checkbox. If you've made it this far, go ahead and click the one below this box now!
 
@@ -18,15 +16,14 @@ Throughout this tutorial we will link to internal and external tutorials, videos
 
 Before we dive in too far, let's make sure you've completed the following prerequisites. In order to keep this tutorial to the essentials, we will assume you have covered this material already so that we minimize redundancy:
 
-1. Passed out of  / completed [RAMP 0](https://www.makeschool.com/academy/track/ramp-0)
-1. Passed out of  / completed [RAMP 1 (Game of Life)](https://github.com/extrajordanary/p5js-game-of-life)
-1. Beginner understanding of variables, objects, conditionals, loops, functions, classes, and arrays using JavaScript or a language of your choosing
+1. A basic understanding of variables, objects, conditionals, loops, functions, classes, and arrays.
+1. If you have been asked to complete Ramp, please do so before beginning the prework
 
-If you feel you need some more practice on these topics, click on those RAMP links above to refresh your memory before moving forward.
+If you feel you need help in satisfying these prerequisites, or would like confirmation on where/how to complete them, please email ramp@makeschool.com with your questions/comments/concerns.
 
 # Learning Outcomes
 
-During your time at Make School, you'll see **learning outcomes** throughout your tutorials, courses, and lessons. Think of these as the goals you should achieve after going through the material.
+During your time at Make School, you'll see **learning outcomes** throughout your tutorials, courses, and lessons. Think of these as the skills you are gaining that will allow you to excel in your software engineering career.
 
 > [info]
 >
@@ -36,7 +33,7 @@ By the end of this tutorial, you should be able to...
 
 1. Set up your development environment to be coding ready
 1. Describe and adhere to Make School's communication and professionalism standards
-1. Remember where to find Make School's academic policies
+1. Describe Make School's academic policies
 1. Practice general coding best practices
 1. Compare and contrast Python and JavaScript syntax
 

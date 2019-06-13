@@ -47,7 +47,8 @@ Make School's web track focuses primarily on JavaScript for both frontend develo
 * Please complete [Codecademy's Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 
 >[info]
-As a reminder, Codecademy uses a freemium model. There are free sections and paid sections. You only need to complete the free sections.
+As a reminder, Codecademy uses a freemium model. There are free sections and paid sections. You need only complete the sections listed above, which are free
+
 
 ## Extra
 

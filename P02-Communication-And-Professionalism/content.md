@@ -1,9 +1,11 @@
 ---
-title: "Communication & Professionalism"
+title: "Communication And Professionalism"
 slug: communication-and-professionalism
 ---
 
-You may be set up like a software engineer, but you'll also need to level up your professionalism and communication skills to really help you shine in your future career. We'll outline here how to accomplish this and set you on the path of success!
+You may be set up like a software engineer, but you'll also need to level up your professionalism and communication skills to really help you shine in your future career. Former LinkedIn engineering director [Donnie Flood](https://www.linkedin.com/pulse/communication-key-software-engineering-donnie-flood/) says that "communication is key to successful software engineering and deserves more recognition for being so."
+
+ We'll outline here how to accomplish this and set you on the path of success!
 
 # Professionalism
 
@@ -52,12 +54,16 @@ Your LinkedIn profile is your online resume. It's one of the first things  recru
 > - Profile Picture
 > - Location (San Francisco Bay Area)
 > - Summary
-> - Set Make School as your current school with your graduation year
+> - Set [Make School](https://www.linkedin.com/school/makeschool/) as your current school with your graduation year
 > - List any programming/computer related projects under the "Experience" section of your profile
 
 # Starting Your Make School Portfolio
 
-Much of what you accomplish at Make School will be captured in your Make School portfolio.
+Much of what you accomplish at Make School will be captured in your Make School portfolio. This is where your future projects will live that will be shown to prospective employers, and where you get the chance to talk about your background more.
+
+Here's a sample of what a portfolio could look like:
+
+![sample-portfolio](assets/sample-portfolio.png)
 
 > [action]
 >
@@ -86,7 +92,7 @@ As the GTD method acknowledges, there are countless ways to track todos, but unl
 
 > [action]
 >
-> Pick a todo tracking tool that works best for you! It could be the Apple Notes app, [Todoist](https://en.todoist.com/), [Trello](http://trello.com) [Asana](http://asana.com), or even a paper day planner or legal pad. Choose something that you think will work best for you. Remember it's ok to change later! Try something for now, and change it if it's not working out.
+> Pick a todo tracking tool that works best for you! It could be the Apple Notes app, [Todoist](https://en.todoist.com/), [Trello](http://trello.com), [Asana](http://asana.com), or even a paper day planner or legal pad. Choose something that you think will work best for you. Remember it's ok to change later! Try something for now, and change it if it's not working out.
 
 The key is to create a **Single Source of Truth** list: one source to hold all of your tasks. Otherwise, you’ll have multiple lists, double count tasks, lose track of what you put where, or scratch one thing off a list only to find it somewhere else.
 
@@ -103,7 +109,7 @@ To codify your types of work, productivity guru David Allen recommends categoriz
 
 # Organized Calendar
 
-Google Calendar is arguably the most important tool you will use at the Product College and in your professional work. You will use it to see your classes, plan meetings with instructors and colleagues, make plans with mentors, find out about events, and much more.
+Google Calendar is arguably the most important tool you will use at Make School and in your professional work. You will use it to see your classes, plan meetings with instructors and colleagues, make plans with mentors, find out about events, and much more.
 
 > [action]
 >
@@ -129,9 +135,15 @@ While you are in a time block you do not check email or Slack or the news or Fac
 - Work off the plan - follow the plan you made
 - Update the plan - as you learn more update your plan
 
+How long should a work block be? We recommend a [Time Block, or timeboxing](https://en.wikipedia.org/wiki/Timeboxing) practice known as the [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique). This technique involves using a timer to focus your time into alternating work blocks and short breaks.
+
+> [action]
+>
+> During the next chapter of this tutorial, try using the Pomodoro technique.
+
 ## The Rest of the Time
 
-When you are not in a time block, you might be checking email, slack, and otherwise puttering around. This is OK, but you also have to keep your wits about you and track what you need to do in the future. So follow these steps:
+When you are not in a time block, you might be checking email, slack, and otherwise puttering around. This is OK, so long as you track what you need to do in the future. Try following these steps to guide you:
 
 - If a task is 2 minutes - just do it
 - If a task will take a fixed amount of time - schedule it on your calendar
@@ -139,10 +151,8 @@ When you are not in a time block, you might be checking email, slack, and otherw
 
 # Optional Resources
 
-The following cover the same topics as the above sections, but with some more information about other varieties of organization and productivity methods. Again, you don't have to follow the exact methods listed, as long as you are picking a method and mastering it to help you improve your productivity.
+The following cover the same topics as the above sections, but with some more information about other varieties of organization and productivity methods. Focus on picking a method and mastering it to help you improve your productivity.
 
 - [Productivity & Organization self guided tutorial](https://drive.google.com/file/d/1eh9LIZdCK-EwNLtCxrp4jZLaSoIrjqbl/view?usp=sharing)
 -  [Productivity Worksheet](https://drive.google.com/file/d/1dOoL6-4p_5jmMY2eMBjgNqJxwFdVpmR3/view?usp=sharing) to accompany the self guided tutorial
-- Keeping focused using [Time Block, or timeboxing](https://en.wikipedia.org/wiki/Timeboxing).
-    - The [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) is a variation of this which involves using a timer to focus your time into alternating work blocks and short breaks.
 - Download [SelfControl](https://selfcontrolapp.com/) to literally block distracting sites.

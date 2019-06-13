@@ -3,11 +3,7 @@ title: "Academic Policies"
 slug: academic-policies
 ---
 
-Like any college, Make School has a large number of policies that we expect all students to adhere to. We won't cover everything in detail here, as they'll be covered more in depth during your orientation, but we want to give you a brief overview of a few of the policies.
-
-> [info]
->
-> You can read about these policies yourself in depth in our [Academic Handbook](http://make.sc/academic-handbook)
+Like any college, Make School has a large number of policies that we expect all students to adhere to. These policies will be covered more in depth during your orientation, but we want to give you a brief overview of a few of them.
 
 # Grading System
 
@@ -81,11 +77,11 @@ Make School is a place of community, trust, fun, as well as high achievement and
 > [action]
 >
 > 1. Other than plagiarism, what are other examples of cheating?
-> 1. True or false: helping someone else to take credit for work that you did is acceptable in certain circumstances.
+> 1. What happens if a student has been found to have committed an act of academic dishonesty?
 
 # Disability Services (Academic Accommodations)
 
-Make School is committed to providing effective, reasonable accommodations to qualified students with disabilities in accordance with Section 504 of the Rehabilitation Act of 1973 and the Americans with Disabilities Act (ADA). Through our process you will meet with a Make School staff member to make sure that the appropriate accommodations are provided for you.
+Make School is committed to providing effective, reasonable accommodations to qualified students with disabilities. Through our process you will meet with a Make School staff member to make sure that the appropriate accommodations are provided for you. This is a common procedure for us, and we want to set you up for success to the best of our abilities.
 
 Please know that all information you share with Make School staff will remain confidential.
 
@@ -100,5 +96,9 @@ Please know that all information you share with Make School staff will remain co
 > 1. How do you qualify as having a disability at Make School?
 > 1. How do you request accommodations for your disability?
 > 1. What is the only way Make School can share your disability information?
+
+# Want to Learn More?
+
+You can read about these policies yourself in depth in our [Academic Handbook](http://make.sc/academic-handbook)
 
 Alright, we've had our policy time, let's get back to coding!

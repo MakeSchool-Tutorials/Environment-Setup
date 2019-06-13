@@ -1,6 +1,6 @@
 ---
-title: "Computer Setup & Key Tools"
-slug: key-tools
+title: "Computer And Environment Setup"
+slug: computer-and-environment-setup
 ---
 
 ## Computer Requirements
@@ -14,15 +14,11 @@ In order to participate in Make School, you must have a laptop that meets the th
 1. A fully-functioning keyboard
 1. A fully-functioning screen
 
-If you do not have these, please review the [Laptop section of our student handbook](https://docs.google.com/document/d/18K7ue1L0lVw96nsaflLGLBUcfefsb0RYxVIv1xm0o30/preview#heading=h.s8dsu973nbr) for available options on how to find an economical laptop that meets these requirements.
-
 > [info]
 >
 > Why do we require your laptop to be from _Apple_? We have found that it is difficult to support the tools/languages we use in our fast-paced learning environment on a PC. Whether it's web, mobile, or data science, a Mac (OSX) environment is much easier to work with both for the students and the instructor, and also goes far to helping guarantee a students success by minimizing hardware issues.
 
-It is required for you to have your computer meeting these requirements BEFORE arriving at Make School.
-
-Unfortunately, we cannot offer any sort of exceptions to this policy, students in the past who we have allowed to use workarounds such as a "hackintosh" or virtual machines have not been successful.
+Unfortunately, we cannot offer any sort of exceptions to this policy, students in the past who we have allowed to use workarounds such as a "hackintosh" or virtual machines have not been successful. If you cannot meet these requirements, please review the [Laptop section of our student handbook](https://docs.google.com/document/d/18K7ue1L0lVw96nsaflLGLBUcfefsb0RYxVIv1xm0o30/preview#heading=h.s8dsu973nbr) for available options on how to find an economical laptop that meets these requirements.
 
 > [action]
 >
@@ -42,14 +38,9 @@ Next you must download and install - or update - your operating system:
 > [info]
 This download may take multiple hours to complete, so please start it now before continuing.
 
-
-# Key Tools
-
-At Make School we use a few digital tools to facilitate coding and collaborating with instructors and other students. You will use these tools EVERY DAY when you are on campus, so it is important that they are loaded on your computer and you are familiar with them before you arrive.
-
 # The Command Line or Terminal
 
-We need to make sure you get your feet wet with navigating the command line (also called your computer's "terminal").
+As a software engineer, the command line will be your best friend! It allows you to more directly interact with your computer. Here's some resources to start learning how to navigate your terminal:
 
 > [action]
 >
@@ -61,19 +52,21 @@ You should become familiar with all of the following commands before proceeding 
 
 > [challenge]
 >
-> Any time you see a green box like this with a trophy, it will indicate an _optional challenge_. If you're looking to further your terminal knowledge even more, finish the remaining 3 chapters in the Code Academy tutorial
+> Any time you see a green box like this with a trophy, it will indicate an _optional challenge_.
+>
+> If you're looking to further your terminal knowledge even more, finish the remaining 3 chapters in the Code Academy tutorial.
 
 <!-- -->
 
 > [info]
-NOTE: Codecademy tutorials follow the "freemium" model where parts of the tutorial content are only available to paid users. You only need to complete the free sections.
+NOTE: Codecademy tutorials follow the "freemium" model where parts of the tutorial content are only available to paid users. You need only complete the sections listed above, which are free.
 
 # Environment Setup
 
-Ok, so now you know how to navigate the terminal, feeling pretty confident in creating folders and files without using Finder. Let's get the rest of your computer set up for success at Make School.
+Ok, so now you know how to navigate the terminal, and you're feeling pretty confident in creating folders and files without using Finder. Let's get the rest of your computer set up for success at Make School.
 
 > [action]
 >
 > Complete the Make School [Environment Setup Tutorial](https://www.makeschool.com/academy/track/environment-setup-39i) to get all of the tools/software you'll need
 
-This will take a few hours to complete, but we'll be here ready for you when you're all set up and ready to move forward!
+This will take a few hours to complete. We'll be here ready for you when you're all set up and ready to move forward!
