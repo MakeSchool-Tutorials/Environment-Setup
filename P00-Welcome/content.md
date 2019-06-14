@@ -41,7 +41,15 @@ By the end of this tutorial, you should be able to...
 >
 > Reflect on these as you complete each chapter. Are you meeting these outcomes?
 
-Ready to get that development environment set up?
+# Tell Us About Yourself
+
+We have students from all different walks of life, and we'd love to learn about yours!
+
+> [action]
+>
+> Take a few minutes to [fill out your student profile](https://forms.gle/fV1toy8veKdeDf9G7). This will be available for all students/staff to see, so please fill it out appropriately.
+
+Looking forward to learning more about you! Now, are you ready to get that development environment set up?
 
 ![lets-do-this](https://media.giphy.com/media/Cx0JktG3wBWvu/giphy.gif)
 <br/><sub> Source: [Giphy](https://media.giphy.com/media/Cx0JktG3wBWvu/giphy.gif) </sub>
