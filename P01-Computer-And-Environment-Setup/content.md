@@ -68,5 +68,7 @@ Ok, so now you know how to navigate the terminal, and you're feeling pretty conf
 > [action]
 >
 > Complete the Make School [Environment Setup Tutorial](https://www.makeschool.com/academy/track/environment-setup-39i) to get all of the tools/software you'll need
+>
+> **IMPORTANT NOTE:** For now, **please skip chapter 3 of the tutorial**, as you will not have access to most of those tools until orientation. Please make a note to revisit Chapter 3 after orientation and complete it at that time.
 
 This will take a few hours to complete. We'll be here ready for you when you're all set up and ready to move forward!
