@@ -18,7 +18,7 @@ In order to participate in Make School, you must have a laptop that meets the th
 >
 > Why do we require your laptop to be from _Apple_? We have found that it is difficult to support the tools/languages we use in our fast-paced learning environment on a PC. Whether it's web, mobile, or data science, a Mac (OSX) environment is much easier to work with both for the students and the instructor, and also goes far to helping guarantee a students success by minimizing hardware issues.
 
-Unfortunately, we cannot offer any sort of exceptions to this policy, students in the past who we have allowed to use workarounds such as a "hackintosh" or virtual machines have not been successful. If you cannot meet these requirements, please review the [Laptop section of our student handbook](https://docs.google.com/document/d/18K7ue1L0lVw96nsaflLGLBUcfefsb0RYxVIv1xm0o30/preview#heading=h.s8dsu973nbr) for available options on how to find an economical laptop that meets these requirements.
+Unfortunately, we cannot offer any sort of exceptions to this policy, students in the past who we have allowed to use workarounds such as a "hackintosh" or virtual machines have not been successful. If you cannot meet these requirements, please review the [Laptop section of our student handbook](https://docs.google.com/document/d/1a1i2jwXqx__URpWvUf8z8E9iwcdJ05QsPnbjs7Z83Us/preview#heading=h.p5a6appfat36) for available options on how to find an economical laptop that meets these requirements.
 
 > [action]
 >
@@ -40,7 +40,13 @@ This download may take multiple hours to complete, so please start it now before
 
 # Stretch Challenge: The Command Line or Terminal
 
-As a software engineer, the command line will be your best friend! It allows you to more directly interact with your computer. 
+## Note About Stretch Challenges
+
+You'll frequently see Stretch Challenges throughout your time at Make School. These challenges are _optional_, and are there to help give you more practice, or to dive deeper into a topic. If you want to go the extra mile and enhance your learning, we encourage you to complete them after you have completed the required content for a chapter/project/lesson/etc.
+
+## The Command Line or Terminal
+
+As a software engineer, the command line will be your best friend! It allows you to more directly interact with your computer.
 
 We'll be covering the terminal in more depth over the course of our Term 1 curriculum, but if you're ready to dive in now, here are some resources to start learning how to navigate your terminal:
 
@@ -55,4 +61,3 @@ We'll be covering the terminal in more depth over the course of our Term 1 curri
 > `ls`, `pwd`, `cd`, `mkdir`, `touch`, `mv`, `rm`, `cp`
 >
 > If you're looking to further your terminal knowledge even more, finish the remaining 3 chapters in the Code Academy tutorial.
-

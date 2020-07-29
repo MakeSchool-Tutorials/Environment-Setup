@@ -32,7 +32,7 @@ $ git config --global user.name "YOUR_NAME"
 $ git config --global user.email "YOUR_PERSONAL_EMAIL@example.com"
 ```
 >
-> Finally, double-check your settings:
+> Finally, double-check your settings. They should look similar to the following:
 >
 ```bash
 $ git config --list
@@ -56,7 +56,7 @@ SSH keys are a cryptographic way to secure your connection between your computer
 
 > [action]
 >
-> Run the following commands.
+> Run the following commands, using your email address that you entered earlier.
 >
 > **‼️ IMPORTANT !!: DO NOT ENTER A PASSWORD WHEN PROMPTED**. Just hit enter.
 >

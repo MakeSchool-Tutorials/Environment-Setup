@@ -31,14 +31,12 @@ A best practice to organize your code projects is to create one folder called ei
 	```bash
 	$ ~ mkdir dev
 	$ dev
-	$ dev mkdir courses
 	```
 >
-> 1. Now you are in your `dev` folder. You should move your portfolio coding projects into this folder and also where you should instantiate all new portfolio coding projects.
+> 1. Now you are in your `dev` folder. You should create your portfolio coding projects in this folder!
 > 1. Let's add one more thing which is a folder for your courses. In this folder you can make directories for your coursework.
 >
 	```bash
-	$ dev
 	$ dev mkdir courses
 	```
 
@@ -81,5 +79,3 @@ $ brew update
 ```
 
 This may take several minutes to download updates, so be patient while it completes.
-
-

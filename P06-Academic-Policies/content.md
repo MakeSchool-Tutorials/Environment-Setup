@@ -46,13 +46,13 @@ You must let your instructor and coach know if you are going to be absent.
 > 1. What are the two requirements for scheduled sessions?
 > 1. What do you do if ill for over a week, or have a family emergency?
 
-# Diversity and Inclusion
+# Code of Conduct, Equity & Inclusion
 
 At Make School we strive to build a community where everyone feels safe. To maintain that safe environment, we follow an official Code of Conduct and a Harassment Policy.
 
 > [action]
 >
-> Read more about our [Diversity and Inclusion Statement](https://make.sc/diversity-and-inclusion-statement), as well as our [Code of Conduct and Harassment Policies](https://docs.google.com/document/d/18K7ue1L0lVw96nsaflLGLBUcfefsb0RYxVIv1xm0o30/edit?ts=5c9a8e10#heading=h.x0jvq6l5kdwl) from our Student Handbook
+> Read more about our [Code of Conduct, Equity & Inclusion](https://make.sc/diversity-and-inclusion-statement) from our Student Handbook
 
 ## Check your understanding
 
@@ -99,6 +99,6 @@ Please know that all information you share with Make School staff will remain co
 
 # Want to Learn More?
 
-You can read about these policies yourself in depth in our [Academic Handbook](http://make.sc/academic-handbook)
+You can read about these policies yourself in depth in the [Student Handbook](http://make.sc/academic-handbook)
 
-Alright, we've had our policy time, let's get back to coding!
+Alright, we've had our policy time, let's get back to coding! **Congrats on completing your Prework tutorial!!**
