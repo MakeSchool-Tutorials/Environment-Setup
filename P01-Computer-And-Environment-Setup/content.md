@@ -38,37 +38,21 @@ Next you must download and install - or update - your operating system:
 > [info]
 This download may take multiple hours to complete, so please start it now before continuing.
 
-# The Command Line or Terminal
+# Stretch Challenge: The Command Line or Terminal
 
-As a software engineer, the command line will be your best friend! It allows you to more directly interact with your computer. Here's some resources to start learning how to navigate your terminal:
+As a software engineer, the command line will be your best friend! It allows you to more directly interact with your computer. 
 
-> [action]
->
-> Please complete the **Chapters 1-2** of  [Code Academy Command Line Tutorial](https://www.codecademy.com/learn/learn-the-command-line)
-
-You should become familiar with all of the following commands before proceeding to the next section:
-
-`ls`, `pwd`, `cd`, `mkdir`, `touch`, `mv`, `rm`, `cp`
+We'll be covering the terminal in more depth over the course of our Term 1 curriculum, but if you're ready to dive in now, here are some resources to start learning how to navigate your terminal:
 
 > [challenge]
 >
 > Any time you see a green box like this with a trophy, it will indicate an _optional challenge_.
 >
+> Complete the **Chapters 1-2** of [Code Academy Command Line Tutorial](https://www.codecademy.com/learn/learn-the-command-line)
+>
+> This tutorial will familiarize you with the following commands:
+>
+> `ls`, `pwd`, `cd`, `mkdir`, `touch`, `mv`, `rm`, `cp`
+>
 > If you're looking to further your terminal knowledge even more, finish the remaining 3 chapters in the Code Academy tutorial.
 
-<!-- -->
-
-> [info]
-NOTE: Codecademy tutorials follow the "freemium" model where parts of the tutorial content are only available to paid users. You need only complete the sections listed above, which are free.
-
-# Environment Setup
-
-Ok, so now you know how to navigate the terminal, and you're feeling pretty confident in creating folders and files without using Finder. Let's get the rest of your computer set up for success at Make School.
-
-> [action]
->
-> Complete the Make School [Environment Setup Tutorial](https://www.makeschool.com/academy/track/environment-setup-39i) to get all of the tools/software you'll need
->
-> **IMPORTANT NOTE:** For now, **please skip chapter 3 of the tutorial**, as you will not have access to most of those tools until orientation. Please make a note to revisit Chapter 3 after orientation and complete it at that time.
-
-This will take a few hours to complete. We'll be here ready for you when you're all set up and ready to move forward!
