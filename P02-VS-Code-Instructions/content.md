@@ -27,25 +27,13 @@ We mentioned there are numerous extensions you can download to enhance your expe
 
 ## Recommendations
 
-We recommend the following extensions to get you started:
+We recommend the following extension to get you started:
 
-- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - This will allow you to easily write Python in VS Code! auto-completion, debugging, formatting, and more will all be supported. **Without this, you're going to have a hard time, so make sure to install this one!**
-- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - launches a local development server with a live reload feature so you can instantly see your changes in a browser!
-- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - code formatter to make your code look nice and easy to read, following standard styling conventions
-- [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - allows you to easily debug your JavaScript code running in Google Chrome from your VS Code editor!
+- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - This will allow you to easily write Python in VS Code! auto-completion, debugging, formatting, and more will all be supported.
 
 > [action]
 >
 > Install the [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) extension for your editor, and take some time to explore other extensions as well! Don't go too crazy though, keep it simple for now! You can always add more later.
-
-
-# Linting
-
-**Linting** highlights syntactical and stylistic problems in your code, which will help you identify and correct subtle programming errors that you may otherwise miss, or unconventional coding practices that can lead to errors. It's used by software engineers daily, and you should be using it too! It will save you lots of time spending hours trying to find the source of a bug, only to realize you missed an indent somewhere.
-
-> [action]
->
-> Read VS Code's guide on [linting in python](https://code.visualstudio.com/docs/python/linting) and enable linting for your editor
 
 # Stretch Challenge: Debugging and Testing
 
