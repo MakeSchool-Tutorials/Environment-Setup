@@ -3,7 +3,7 @@ title: "Setting Up VS Code"
 slug: setup-vs-code
 ---
 
-Download and install VS Code! VS Code is a text editor built on open-source from Microsoft, that we will use to write code. It also has an excellent debugger, built-in Git support, and numerous extensions you can download (for free!) to help enhance your coding experience!
+Download and install VS Code! VS Code is a text editor built on open-source from Microsoft, that we will use to write code. It also has other coding features we will eventually learn how to use: an excellent debugger, built-in Git support, and numerous extensions you can download (for free!) to help enhance your coding experience!
 
 > [action]
 >
@@ -11,15 +11,17 @@ Download and install VS Code! VS Code is a text editor built on open-source from
 
 # Launch From The Command Line
 
-We want to be able to open files from our terminal for ease of use! You'll learn more about terminal set up in the coming chapters, but there's a quick way to enable it so that we're ready to go:
+We want to be able to open files from our terminal for ease of use! The terminal is a "command line interface" that will let you interact with your computer using only text, which can be more powerful than just using the graphics based apps you may be used to. You'll learn more about terminal set up in the coming chapters, but there's a quick way to enable it so that we're ready to go:
 
 > [action]
 >
 > Follow [these instructions](https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line) so that typing `code` in your terminal will launch VS Code!
 
+DON’T WORRY if this is confusing. We will learn this together at school.
+
 # Extensions
 
-We mentioned there are numerous extensions you can download to enhance your experience with VS Code
+We mentioned there are numerous extensions you can download to enhance your experience with VS Code. An extension is a download that lets you add extra features, themes, and capabilities to your code editor which can make your coding experience faster, more productive, and more fun! 
 
 > [action]
 >

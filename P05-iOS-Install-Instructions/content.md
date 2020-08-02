@@ -3,7 +3,7 @@ title: "iOS Install Instructions"
 slug: ios-install-instructions
 ---
 
-You should update and install your iOS development environment before Python, as the Python installers actually have some dependencies on the iOS tools.
+You should follow this guide to update and install your iOS development environment before Python, as the Python installers actually have some dependencies on the iOS tools.
 
 **IMPORTANT NOTE:** Some sections here apply to all students, some only apply to students going on a Mobile track. Please make sure to read the section headers. Note that you can always come back here and install the necessary tools should you decide to be a mobile student later on.
 

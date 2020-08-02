@@ -3,7 +3,9 @@ title: "Terminal Setup"
 slug: terminal-setup
 ---
 
-A developer lives in their terminal. So we're going to make our terminal pretty and work well.
+The Terminal is an application that gives you command line control over your system, meaning you can type commands in  text form and the computer does stuff. For developers the terminal is one of the most important tools in our toolbox. It may seem weird to want to use a simple text based command system when we have all these awesome graphics, but the Terminal gives you control over almost everything on your computer! It can also be faster and more flexible as you dive deeper into the world of coding. 
+
+Since it's one of our most important tools we are going to make sure to polish it up (we're going to make our terminal pretty and work well).
 
 # Making Your Terminal Professional
 
@@ -44,20 +46,11 @@ A best practice to organize your code projects is to create one folder called ei
 
 As a developer, it's often very useful to be able to see hidden files and folders in Finder. They're hidden because messing with them can cause problems, but we're fancy-pants developers and we're not afraid.
 
-It's useful, because command line tools are installed in hidden folders, Git repositories live in hidden `.git` directories, your bash path file is a hidden file, etc.
+Showing hidden files is useful because a lot of the coding tools we will be using have hidden files associated with them that aren't normally visible to an average computer user.
 
 > [action]
 >
-> 1. To do this, type this command into your command prompt:
->
-	```bash
-	$ defaults write com.apple.finder AppleShowAllFiles YES
-	```
->
-> 1. Then restart Finder by right clicking the Finder icon while holding the *option/alt* key and choosing relaunch.
->
-	![Relaunch Finder](finderRelaunch.png)
->
+> 1. To do this, open your Finder application, go to File->New Window. Once the window is open press CMD + SHIFT + . which will tell the finder to show hidden files.
 
 <!-- -->
 

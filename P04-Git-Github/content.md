@@ -50,6 +50,8 @@ filter.lfs.smudge=git-lfs smudge -- %f
 filter.lfs.process=git-lfs filter-process
 ```
 
+If you can’t set this up, don’t worry - we will give people support during orientation.
+
 # Generating and Configuring SSH Keys
 
 SSH keys are a cryptographic way to secure your connection between your computer and GitHub. Setting them up will make it so you don't have to login through your terminal when you are trying to push. Let's set them up:
@@ -68,6 +70,8 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC+SJSGSCeSeLnOg543Hyqh3OcAENvugks8ygkoOkEA
 ```
 > With your mouse, highlight the entire [public key](https://en.wikipedia.org/wiki/Public-key_cryptography), beginning with `ssh-rsa` and ending with your email address. Copy the highlighted public key to the clipboard.
 
+If you run into issues here we will help you during orientation
+
 ## Add the key to [GitHub](http://github.com)
 
 > [action]
@@ -83,6 +87,7 @@ $ ssh -T git@github.com
 >
 Hi droxey! You have successfully authenticated, but GitHub does not provide shell access.
 ```
+This can be complicated for first time developers. If so have no fear - we will help you at orientation.
 
 # Stretch Challenge: Practice Git
 

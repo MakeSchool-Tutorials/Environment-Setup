@@ -14,6 +14,8 @@ In order to participate in Make School, you must have a laptop that meets the th
 1. A fully-functioning keyboard
 1. A fully-functioning screen
 
+If you don’t have a laptop with these specifications, please message questions@makeschool.com if you have any issues with your computer
+
 > [info]
 >
 > Why do we require your laptop to be from _Apple_? We have found that it is difficult to support the tools/languages we use in our fast-paced learning environment on a PC. Whether it's web, mobile, or data science, a Mac (OSX) environment is much easier to work with both for the students and the instructor, and also goes far to helping guarantee a students success by minimizing hardware issues.
@@ -26,7 +28,7 @@ Unfortunately, we cannot offer any sort of exceptions to this policy, students i
 
 # Operating System
 
-Next you must download and install - or update - your operating system:
+Next you must download and install - or update - your operating system. The operating system is the software that makes your whole computer function
 
 > [action]
 >
@@ -36,7 +38,10 @@ Next you must download and install - or update - your operating system:
 <!-- -->
 
 > [info]
-This download may take multiple hours to complete, so please start it now before continuing.
+This download may take multiple hours to complete, so please start it now before continuing. 
+
+> [info]
+Note you may need to delete some files to make sure you have enough space to download the applications in this tutorial
 
 # Stretch Challenge: The Command Line or Terminal
 
