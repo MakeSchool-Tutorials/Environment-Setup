@@ -31,7 +31,7 @@ A best practice to organize your code projects is to create one folder called ei
 > 1. Use your terminal to make this now.
 >
 	```bash
-	$ ~ mkdir dev
+	$ mkdir dev
 	$ dev
 	```
 >
@@ -39,8 +39,22 @@ A best practice to organize your code projects is to create one folder called ei
 > 1. Let's add one more thing which is a folder for your courses. In this folder you can make directories for your coursework.
 >
 	```bash
-	$ dev mkdir courses
+	$ mkdir courses
 	```
+
+![Terminal Dev Folder](make-dev-folder.gif)
+
+Great! Now, if you explore the `dev` folder in Finder, you should see the `courses` folder we just created. 
+
+> [action]
+>
+> 1. Use the keyboard shortcut `command` + `spacebar` and type "finder" to open Finder.
+> 1. In the menu at the very top of your screen, go to "Go" -> "Home".
+> 1. Click on the "dev" folder to open it in Finder and check that it contains a folder "courses".
+
+![Finder Courses Folder](finderCoursesFolder.png)
+
+If this step was difficult for you, don't worry - we'll be going over Terminal in much more detail during Term 1.
 
 # Show Hidden Files
 
@@ -50,12 +64,9 @@ Showing hidden files is useful because a lot of the coding tools we will be usin
 
 > [action]
 >
-> 1. To do this, open your Finder application, go to File->New Window. Once the window is open press CMD + SHIFT + . which will tell the finder to show hidden files.
+> 1. Open your Finder application, go to File->New Window. Once the window is open press CMD + SHIFT + . which will tell the finder to show hidden files.
 
 <!-- -->
-
-> [info]
-> It's easy to reverse this change - just follow the same steps, replacing `YES` with `NO`.
 
 # Homebrew
 
@@ -72,3 +83,28 @@ $ brew update
 ```
 
 This may take several minutes to download updates, so be patient while it completes.
+
+
+# Stretch Challenge: Learn Terminal Commands
+
+## Note About Stretch Challenges
+
+You'll frequently see Stretch Challenges throughout your time at Make School. These challenges are _optional_, and are there to help give you more practice, or to dive deeper into a topic. If you want to go the extra mile and enhance your learning, we encourage you to complete them after you have completed the required content for a chapter/project/lesson/etc.
+
+## The Command Line or Terminal
+
+As a software engineer, the command line will be your best friend! It allows you to more directly interact with your computer.
+
+We'll be covering the terminal in more depth over the course of our Term 1 curriculum, but if you're ready to dive in now, here are some resources to start learning how to navigate your terminal:
+
+> [challenge]
+>
+> Any time you see a green box like this with a trophy, it will indicate an _optional challenge_.
+>
+> Complete the **Chapters 1-2** of [Code Academy Command Line Tutorial](https://www.codecademy.com/learn/learn-the-command-line)
+>
+> This tutorial will familiarize you with the following commands:
+>
+> `ls`, `pwd`, `cd`, `mkdir`, `touch`, `mv`, `rm`, `cp`
+>
+> If you're looking to further your terminal knowledge even more, finish the remaining 3 chapters in the Code Academy tutorial.
