@@ -12,7 +12,7 @@ We'll see you in a few short weeks, but until then, we've prepared some tasks fo
 
 > [action]
 >
-> Watch the following video by Dan, a Make School instructor, to get an idea of what you'll be doing in this tutorial:
+> **Watch the following video** by Dan, a Make School instructor, to get an overview of what you'll accomplish in this tutorial:
 >
 >![ms-video-youtube](https://www.youtube.com/watch?v=S7eSqgI0Tyk)
 
