@@ -52,7 +52,7 @@ Great! Now, if you explore the `dev` folder in Finder, you should see the `cours
 > 1. In the menu at the very top of your screen, go to "Go" -> "Home".
 > 1. Click on the "dev" folder to open it in Finder and check that it contains a folder "courses".
 
-![Finder Courses Folder](finderCoursesFolder.png)
+![Finder Courses Folder](finder-courses-folder.png)
 
 If this step was difficult for you, don't worry - we'll be going over Terminal in much more detail during Term 1.
 

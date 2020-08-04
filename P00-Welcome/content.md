@@ -10,6 +10,12 @@ Welcome to the Make School family! We're absolutely thrilled to bring you on boa
 
 We'll see you in a few short weeks, but until then, we've prepared some tasks for you in this prework tutorial that will set you up for success at Make School. We'll cover how to set up your laptop so that you're ready to start coding.
 
+> [action]
+>
+> Watch the following video by Dan, a Make School instructor, to get an idea of what you'll be doing in this tutorial:
+>
+>![ms-video-youtube](https://www.youtube.com/watch?v=S7eSqgI0Tyk)
+
 Once you finish each section, click the "Mark as Complete" checkbox. If you've made it this far, go ahead and click the one below this box now!
 
 # Learning Outcomes
