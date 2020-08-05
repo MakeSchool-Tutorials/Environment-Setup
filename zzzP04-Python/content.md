@@ -41,7 +41,7 @@ As a Make School student, we expect you to learn and utilize coding best practic
 
 # Optional Resources/Challenges
 
-At Make School, we're constantly encouraging our students to dive deeper into the material. We know you can push yourself to learn more, and the prework is no exception to that. Take a look at the sections below, and pick one to jump in to.
+At Make School, we're constantly encouraging our students to dive deeper into the material. We know you can push yourself to learn more. Take a look at the sections below, and pick one to jump in to.
 
 ## More Python Practice
 

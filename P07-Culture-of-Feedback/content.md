@@ -39,7 +39,7 @@ As important as it is to get feedback, it's equally important to give feedback. 
 
 We provide a variety of platforms for students to give feedback to us, from opening GitHub issues, to end-of-term feedback surveys, to town halls where we discuss feedback with students in a conversational setting. You can also always give us feedback via the `#make-school-feedback` channel on Slack!
 
-In the spirit of collecting feedback, we'd love to hear your thoughts on this prework tutorial. **We promise this won't take longer than 2 minutes!**
+In the spirit of collecting feedback, we'd love to hear your thoughts on this environment setup tutorial. **We promise this won't take longer than 2 minutes!**
 
 > [action]
 >
@@ -48,7 +48,7 @@ In the spirit of collecting feedback, we'd love to hear your thoughts on this pr
 Hit the `Mark as Complete` box once you've done the above survey! And finally...
 
 # That's a Wrap!
- **Congrats on completing your prework!**
+ **Congrats on completing your environment setup!**
 
  ![congrats](https://media.giphy.com/media/rY93u9tQbybks/giphy.gif)
  <sub>Source: [giphy](https://giphy.com/gifs/great-dicaprio-leonardo-rY93u9tQbybks)</sub><br/><br/>

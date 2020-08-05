@@ -101,4 +101,4 @@ Please know that all information you share with Make School staff will remain co
 
 You can read about these policies yourself in depth in the [Student Handbook](http://make.sc/academic-handbook)
 
-Alright, we've had our policy time, let's get back to coding! **Congrats on completing your Prework tutorial!!**
+Alright, we've had our policy time, let's get back to coding! **Congrats on completing your environment setup tutorial!!**

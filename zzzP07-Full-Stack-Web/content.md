@@ -3,7 +3,7 @@ title: "Full Stack Web Development"
 slug: full-stack-web
 ---
 
-This section is mandatory prework if you are seeking to concentrate on web development, but optional otherwise.
+This section is mandatory if you are seeking to concentrate on web development, but optional otherwise.
 
 In order to begin at Make School in the web development track, you must be familiar with the most basic HTML, CSS, and JavaScript.
 

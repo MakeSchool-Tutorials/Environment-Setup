@@ -8,7 +8,7 @@ Welcome to the Make School family! We're absolutely thrilled to bring you on boa
 ![hello](https://media1.tenor.com/images/7579a792cffb3e35c5ae81669a8a3bb4/tenor.gif?itemid=12198352)
 <sub> Source: [Tenor](https://tenor.com/view/yay-bobs-burger-excited-happiness-hello-gif-12198352) </sub><br/><br/>
 
-We'll see you in a few short weeks, but until then, we've prepared some tasks for you in this prework tutorial that will set you up for success at Make School. We'll cover how to set up your laptop so that you're ready to start coding.
+We'll see you in a few short weeks, but until then, we've prepared some tasks for you in this environment setup tutorial that will set you up for success at Make School. We'll cover how to set up your laptop so that you're ready to start coding.
 
 > [action]
 >
