@@ -17,4 +17,6 @@ We want to be able to open files from our terminal for ease of use! The terminal
 >
 > Follow [these instructions](https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line) so that typing `code` in your terminal will launch VS Code!
 
+Make sure you drag VS Code into your Applications! This will be helpful for opening it later.
+
 If this step is difficult for you, don't worry! We'll be covering the terminal in much more depth during Term 1.

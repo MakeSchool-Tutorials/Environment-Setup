@@ -3,7 +3,7 @@ title: "Terminal Setup"
 slug: terminal-setup
 ---
 
-The Terminal is an application that gives you command line control over your system, meaning you can type commands in  text form and the computer does stuff. For developers the terminal is one of the most important tools in our toolbox. It may seem weird to want to use a simple text based command system when we have all these awesome graphics, but the Terminal gives you control over almost everything on your computer! It can also be faster and more flexible as you dive deeper into the world of coding. 
+The Terminal is an application that gives you command line control over your system, meaning you can type commands in  text form and the computer does stuff. For developers the terminal is one of the most important tools in our toolbox. It may seem weird to want to use a simple text based command system when we have all these awesome graphics, but the Terminal gives you control over almost everything on your computer! It can also be faster and more flexible as you dive deeper into the world of coding.
 
 Since it's one of our most important tools we are going to make sure to polish it up (we're going to make our terminal pretty and work well).
 
@@ -32,7 +32,7 @@ A best practice to organize your code projects is to create one folder called ei
 >
 	```bash
 	$ mkdir dev
-	$ dev
+	$ cd dev
 	```
 >
 > 1. Now you are in your `dev` folder. You should create your portfolio coding projects in this folder!
@@ -44,7 +44,7 @@ A best practice to organize your code projects is to create one folder called ei
 
 ![Terminal Dev Folder](make-dev-folder.gif)
 
-Great! Now, if you explore the `dev` folder in Finder, you should see the `courses` folder we just created. 
+Great! Now, if you explore the `dev` folder in Finder, you should see the `courses` folder we just created.
 
 > [action]
 >
