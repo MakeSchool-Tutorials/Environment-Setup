@@ -92,6 +92,12 @@ This can be complicated for first time developers. If so, have no fear - we will
 
 # Stretch Challenge: Practice Git
 
+## Note About Stretch Challenges
+
+You'll frequently see Stretch Challenges throughout your time at Make School. These challenges are _optional_, and are there to help give you more practice, or to dive deeper into a topic. If you want to go the extra mile and enhance your learning, we encourage you to complete them after you have completed the required content for a chapter/project/lesson/etc.
+
+## Practice Git
+
 Now that you have a general understanding of git, practice your skills at [Learn Git Branching](https://learngitbranching.js.org/). This is a great way to learn and practice the basics of git from the browser with a guided tutorial.
 
 > [challenge]
