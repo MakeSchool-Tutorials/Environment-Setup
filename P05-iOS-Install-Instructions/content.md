@@ -30,6 +30,7 @@ From here, Xcode is an easy download in the Mac App Store:
 
 > [action]
 >
-> Open the App Store on your laptop and search for `Xcode`. From there, install it!
+> 1. Use the keyboard shortcut `command` + `spacebar` and type "app store" to open the App Store.
+> 1. Once there, search for the program `Xcode` and click `Install`.
 
 After it's installed (this will take some time, it's not a quick download), you should open Xcode to allow it to do some additional installation and configuration. Note that you should **not install a beta version of Xcode!** Only install a production version through the app store.
