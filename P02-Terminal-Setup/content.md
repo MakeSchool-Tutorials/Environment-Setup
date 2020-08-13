@@ -96,9 +96,9 @@ Node is an open-source, cross-platform, JavaScript runtime environment that exec
 >
 > Install Node by running the following in Terminal:
 >
-	```bash
-	$ brew install node
-	```
+```bash
+$ brew install node
+```
 
 If you've already installed Node, you can verify that it's been updated to the latest version by running:
 
