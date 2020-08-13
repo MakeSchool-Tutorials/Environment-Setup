@@ -87,3 +87,21 @@ $ brew update
 ```
 
 This may take several minutes to download updates, so be patient while it completes.
+
+# Node
+
+Node is an open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside a web browser. It allows us to run JavaScript programs on our computer.
+
+> [action]
+>
+> Install Node by running the following in Terminal:
+>
+	```bash
+	$ brew install node
+	```
+
+If you've already installed Node, you can verify that it's been updated to the latest version by running:
+
+```bash
+$ node -v
+```
