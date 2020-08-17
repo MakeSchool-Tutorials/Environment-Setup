@@ -7,7 +7,7 @@ The Terminal is an application that gives you command line control over your sys
 
 Since it's one of our most important tools we are going to make sure to polish it up (we're going to make our terminal pretty and work well).
 
-# Making Your Terminal Professional
+# Make Your Terminal Professional
 
 > [action]
 >
@@ -15,9 +15,17 @@ Since it's one of our most important tools we are going to make sure to polish i
 > 1. Now use the keyboard shortcut `command` + `,` to open your preferences (this keyboards shortcut works for every program on your computer!).
 > 1. Set your profile to "Pro" and click "Default".
 
-Looking professional! Don't worry about the profile for now, we're going to change it in the next section.
+Looking professional!
 
-# Making a dev or code directory
+# Run Make School's Bash Setup Script
+
+What about bash color coding? We've got ya covered! Make School has our own custom script to help you set up your terminal settings. For a full walkthrough of how to run the script, watch [this video](https://www.youtube.com/watch?v=35A1mDFRrBY).
+
+> [action]
+>
+> Go to [https://make.sc/bash-setup](https://make.sc/bash-setup) and follow the steps to run Make School's bash setup script to set up your terminal.
+
+# Make a dev or code directory
 
 All good developers have well organized folders and files in their computer. Always keep your folders, files, and desktop clean and organized. It will make you work faster and look and feel more professional.
 
