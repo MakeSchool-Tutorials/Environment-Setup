@@ -23,7 +23,9 @@ What about bash color coding? We've got ya covered! Make School has our own cust
 
 > [action]
 >
-> Go to [https://make.sc/bash-setup](https://make.sc/bash-setup) and follow the steps to run Make School's bash setup script to set up your terminal.
+> Go to [make.sc/bash-setup](https://make.sc/bash-setup) and follow the steps to run Make School's bash setup script to set up your terminal.
+
+<!-- -->
 
 # Make a dev or code directory
 
