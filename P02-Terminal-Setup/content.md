@@ -17,16 +17,6 @@ Since it's one of our most important tools we are going to make sure to polish i
 
 Looking professional!
 
-# Run Make School's Bash Setup Script
-
-What about bash color coding? We've got ya covered! Make School has our own custom script to help you set up your terminal settings. It should take less than 30 seconds! However, for a full walkthrough of how to run the script, watch [this video](https://www.youtube.com/watch?v=35A1mDFRrBY).
-
-> [action]
->
-> Go to [make.sc/bash-setup](https://make.sc/bash-setup) and follow the steps to run Make School's bash setup script to set up your terminal.
-
-<!-- -->
-
 # Make a dev or code directory
 
 All good developers have well organized folders and files in their computer. Always keep your folders, files, and desktop clean and organized. It will make you work faster and look and feel more professional.
@@ -115,3 +105,14 @@ If you've already installed Node, you can verify that it's been updated to the l
 ```bash
 $ node -v
 ```
+
+
+# Run Make School's Bash Setup Script
+
+What about bash color coding? We've got ya covered! Make School has our own custom script to help you set up your terminal settings. It should take less than 30 seconds! However, for a full walkthrough of how to run the script, watch [this video](https://www.youtube.com/watch?v=35A1mDFRrBY).
+
+> [action]
+>
+> Go to [make.sc/bash-setup](https://make.sc/bash-setup) and follow the steps to run Make School's bash setup script to set up your terminal.
+
+<!-- -->
