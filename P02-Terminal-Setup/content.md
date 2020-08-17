@@ -19,7 +19,7 @@ Looking professional!
 
 # Run Make School's Bash Setup Script
 
-What about bash color coding? We've got ya covered! Make School has our own custom script to help you set up your terminal settings. For a full walkthrough of how to run the script, watch [this video](https://www.youtube.com/watch?v=35A1mDFRrBY).
+What about bash color coding? We've got ya covered! Make School has our own custom script to help you set up your terminal settings. It should take less than 30 seconds! However, for a full walkthrough of how to run the script, watch [this video](https://www.youtube.com/watch?v=35A1mDFRrBY).
 
 > [action]
 >
