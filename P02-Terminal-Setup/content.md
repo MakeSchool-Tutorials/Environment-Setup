@@ -21,12 +21,17 @@ Looking professional!
 
 All good developers have well organized folders and files in their computer. Always keep your folders, files, and desktop clean and organized. It will make you work faster and look and feel more professional.
 
-> [info]
-> Whenever you see code prefixed with a dollar sign $, that indicates that it's a command to be entered in the command prompt. Don't include the $ when you paste the command in.
+## IMPORTANT NOTE ON $
+
+Whenever you see code prefixed with a dollar sign `$`, that indicates that it's a command to be entered in the command prompt. **Don't include the `$` when you paste the command in.**
+
+## Create a dev directory
 
 A best practice to organize your code projects is to create one folder called either `dev` or `code` in the root of your computer.
 
 > [action]
+>
+> **REMEMBER: Don't include the `$` when you paste a command in to your terminal!**
 >
 > 1. Use your terminal to make this now.
 >
