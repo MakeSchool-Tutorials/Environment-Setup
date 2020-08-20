@@ -40,14 +40,6 @@ $ git config --list
 credential.helper=osxkeychain
 user.name=Dani Roxberry
 user.email=dani@bitoriented.com
-url.ssh://git@github.com/.insteadof=https://github.com/
-mergetool.keepbackup=false
-core.excludesfile=/Users/dani/.gitignore_global
-core.editor=code
-filter.lfs.required=true
-filter.lfs.clean=git-lfs clean -- %f
-filter.lfs.smudge=git-lfs smudge -- %f
-filter.lfs.process=git-lfs filter-process
 ```
 
 If you can’t set this up, don’t worry - we will be giving extra support during orientation.
