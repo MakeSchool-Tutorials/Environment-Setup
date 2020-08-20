@@ -56,14 +56,48 @@ If you can’t set this up, don’t worry - we will be giving extra support duri
 
 SSH keys are a cryptographic way to secure your connection between your computer and GitHub. Setting them up will make it so you don't have to login through your terminal when you are trying to push. Let's set them up:
 
+**‼️ IMPORTANT !!: DO NOT ENTER A PASSWORD WHEN PROMPTED**. Just hit enter after running the `ssh-keygen` command, and do it until you see a screen that looks like the following:
+
+```bash
+klar (11:39) ~>ssh-keygen
+Generating public/private rsa key pair.
+Enter file in which to save the key (/home/ylo/.ssh/id_rsa):
+Enter passphrase (empty for no passphrase):
+Enter same passphrase again:
+Your identification has been saved in /home/ylo/.ssh/id_rsa.
+Your public key has been saved in /home/ylo/.ssh/id_rsa.pub.
+The key fingerprint is:
+SHA256:Up6KjbnEV4Hgfo75YM393QdQsK3Z0aTNBz0DoirrW+c ylo@klar
+The key's randomart image is:
++---[RSA 2048]----+
+|    .      ..oo..|
+|   . . .  . .o.X.|
+|    . . o.  ..+ B|
+|   .   o.o  .+ ..|
+|    ..o.S   o..  |
+|   . %o=      .  |
+|    @.B...     . |
+|   o.=. o. . .  .|
+|    .oo  E. . .. |
++----[SHA256]-----+
+klar (11:40) ~>
+```
+
+_[source](https://www.ssh.com/ssh/keygen/)_
+
 > [action]
 >
 > Run the following commands, using your email address that you entered earlier.
 >
-> **‼️ IMPORTANT !!: DO NOT ENTER A PASSWORD WHEN PROMPTED**. Just hit enter.
+> **‼️ IMPORTANT !!: DO NOT ENTER A PASSWORD WHEN PROMPTED**. Remember to just hit enter after running the `ssh-keygen` command until you get the image that looks like the example above
 >
 ```bash
 $ ssh-keygen -t rsa -C "your.email@example.com" -b 4096
+```
+>
+> Once again, you will get a few prompts, just keep hitting enter! Once you see something that looks like the above example, run the following command:
+>
+```bash
 $ cat ~/.ssh/id_rsa.pub
 >
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC+SJSGSCeSeLnOg543Hyqh3OcAENvugks8ygkoOkEA4g652gK0ES7CjjpBy4GS/XnaUWiD9iaoE4soE8dqhe/psCoiU+QxGmkjNapLtQAOu1W2v/SEh3Jao+rtfop0S+Ak96fiOVgUgupFAN1FXV1iYdpwyk7rR3Kv/T2M9Ce06Bk5KupdgNzF7Eg/tmFx8H2yVmeQ2J3MWM948ZvWmbBwtbcDRQ6ZtnXSoEof1Wg8agzyisq0Yoi3rXqAIxr1Hevs4g79Lrf65548yTfqZqyljSFA/h4VntXsZYKIWoXti5uPstrwRF6oaH8dm1l74jLAKC/XlqnsqVkRWn/Updj+x8g3+EdtFiWpUwEIMWWDbjPk0HHTfOS06716Hcji0hg4Kfipe03QjhD8Vqp/snaYCb8R3OSZOK1H3Zj9n1JgHhOoFYzk0gstV9DGRmrm2ywrQh3Q7fs23pzrZARGBhRHwk5XfFQl85D7oJffBbfpqjDdyzcHYOAo3mlDfwkfl1nHxynWrwCk+0KKD0zLVsqtkSVlNfQv2JqSSc6ox6vktO7RWKg5/T0b9r0fnNcYfGBVnoJDulJPJr7ynSUDRi2hX5WpMDomylUahVYN/VlAZBwvuWdOM0h3ZUsQEPjauN0k+mY3nQVTIa0hWl1vszTddcxLZKK5mJsvlnL7HMBQxQ== dani@bitoriented.com
