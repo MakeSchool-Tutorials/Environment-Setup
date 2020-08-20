@@ -48,16 +48,9 @@ If you can’t set this up, don’t worry - we will be giving extra support duri
 
 SSH keys are a cryptographic way to secure your connection between your computer and GitHub. Setting them up will make it so you don't have to login through your terminal when you are trying to push. Let's set them up:
 
-**‼️ IMPORTANT !!: DO NOT ENTER A PASSWORD WHEN PROMPTED**. Just hit enter after running the `ssh-keygen` command, and do it until you see a screen that looks like the following:
+**‼️ IMPORTANT !!: DO NOT ENTER A PASSWORD WHEN PROMPTED**. Just hit enter after running the `ssh-keygen` command, and do it until you see something on your terminal that looks like the following:
 
 ```bash
-klar (11:39) ~>ssh-keygen
-Generating public/private rsa key pair.
-Enter file in which to save the key (/home/ylo/.ssh/id_rsa):
-Enter passphrase (empty for no passphrase):
-Enter same passphrase again:
-Your identification has been saved in /home/ylo/.ssh/id_rsa.
-Your public key has been saved in /home/ylo/.ssh/id_rsa.pub.
 The key fingerprint is:
 SHA256:Up6KjbnEV4Hgfo75YM393QdQsK3Z0aTNBz0DoirrW+c ylo@klar
 The key's randomart image is:
